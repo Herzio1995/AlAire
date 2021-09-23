@@ -1,0 +1,1941 @@
+﻿Log file open, 07/14/21 20:20:38
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: AlAire
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.987898
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -4:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cleaning working directory: C:/Users/TI-PC1/AppData/Local/Temp/UnrealXGEWorkingDir/
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i7-6700 CPU @ 3.40GHz, GPU: AMD Radeon (TM) R7 370 Series Graphics
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: E:/Epic/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/GitHub/AlAirev1_2/Al-Aire/AlAire/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.07.15-00.20.55:968][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.07.15-00.20.55:968][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.07.15-00.20.55:968][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/GitHub/AlAirev1_2/Al-Aire/AlAire/Saved/Config/Windows/Engine.ini]
+[2021.07.15-00.20.55:968][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.07.15-00.20.55:968][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/GitHub/AlAirev1_2/Al-Aire/AlAire/Saved/Config/Windows/Engine.ini]
+[2021.07.15-00.20.55:968][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/GitHub/AlAirev1_2/Al-Aire/AlAire/Saved/Config/Windows/Engine.ini]
+[2021.07.15-00.20.55:968][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.07.15-00.20.55:968][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.07.15-00.20.55:968][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.07.15-00.20.55:969][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.07.15-00.20.55:969][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.07.15-00.20.55:969][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.07.15-00.20.55:969][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.07.15-00.20.55:969][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.07.15-00.20.55:969][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.07.15-00.20.55:969][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.07.15-00.20.55:969][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.07.15-00.20.55:969][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.07.15-00.20.55:969][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.07.15-00.20.55:969][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.07.15-00.20.55:969][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/GitHub/AlAirev1_2/Al-Aire/AlAire/Saved/Config/Windows/Engine.ini]
+[2021.07.15-00.20.55:969][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.07.15-00.20.55:969][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.07.15-00.20.55:969][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.07.15-00.20.55:969][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.07.15-00.20.55:969][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.07.15-00.20.55:969][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.07.15-00.20.55:969][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.07.15-00.20.55:969][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.07.15-00.20.55:969][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.07.15-00.20.55:969][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.07.15-00.20.55:969][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.07.15-00.20.55:969][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.07.15-00.20.55:969][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.07.15-00.20.55:969][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.07.15-00.20.55:969][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/GitHub/AlAirev1_2/Al-Aire/AlAire/Saved/Config/Windows/Engine.ini]
+[2021.07.15-00.20.55:969][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/GitHub/AlAirev1_2/Al-Aire/AlAire/Saved/Config/Windows/Engine.ini]
+[2021.07.15-00.20.55:978][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/GitHub/AlAirev1_2/Al-Aire/AlAire/Saved/Config/Windows/Scalability.ini]
+[2021.07.15-00.20.55:978][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.07.15-00.20.55:978][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.07.15-00.20.55:978][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/GitHub/AlAirev1_2/Al-Aire/AlAire/Saved/Config/Windows/Scalability.ini]
+[2021.07.15-00.20.55:978][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.07.15-00.20.55:978][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/GitHub/AlAirev1_2/Al-Aire/AlAire/Saved/Config/Windows/Scalability.ini]
+[2021.07.15-00.20.55:978][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.07.15-00.20.55:978][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.07.15-00.20.55:978][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.07.15-00.20.55:978][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.07.15-00.20.55:978][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.07.15-00.20.55:978][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.07.15-00.20.55:978][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.07.15-00.20.55:978][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.07.15-00.20.55:978][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.07.15-00.20.55:978][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.07.15-00.20.55:978][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.07.15-00.20.55:978][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.07.15-00.20.55:978][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.07.15-00.20.55:978][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.07.15-00.20.55:978][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.07.15-00.20.55:978][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.07.15-00.20.55:978][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.07.15-00.20.55:978][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.07.15-00.20.55:978][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/GitHub/AlAirev1_2/Al-Aire/AlAire/Saved/Config/Windows/Scalability.ini]
+[2021.07.15-00.20.55:978][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.07.15-00.20.55:978][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.07.15-00.20.55:978][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.07.15-00.20.55:978][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.07.15-00.20.55:978][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.07.15-00.20.55:978][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.07.15-00.20.55:978][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.07.15-00.20.55:978][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.07.15-00.20.55:978][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.07.15-00.20.55:978][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.07.15-00.20.55:978][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.07.15-00.20.55:978][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.07.15-00.20.55:978][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.07.15-00.20.55:978][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.07.15-00.20.55:978][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.07.15-00.20.55:978][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.07.15-00.20.55:978][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.07.15-00.20.55:978][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.07.15-00.20.55:978][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.07.15-00.20.55:978][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.07.15-00.20.55:978][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.07.15-00.20.55:978][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.07.15-00.20.55:978][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.07.15-00.20.55:978][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.07.15-00.20.55:978][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.07.15-00.20.55:978][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.07.15-00.20.55:978][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.07.15-00.20.55:978][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.07.15-00.20.55:978][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.07.15-00.20.55:978][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.07.15-00.20.55:978][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/GitHub/AlAirev1_2/Al-Aire/AlAire/Saved/Config/Windows/Scalability.ini]
+[2021.07.15-00.20.55:978][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.07.15-00.20.55:978][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.07.15-00.20.55:978][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.07.15-00.20.55:978][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.07.15-00.20.55:978][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.07.15-00.20.55:978][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.07.15-00.20.55:978][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.07.15-00.20.55:979][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.07.15-00.20.55:979][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.07.15-00.20.55:979][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/GitHub/AlAirev1_2/Al-Aire/AlAire/Saved/Config/Windows/Scalability.ini]
+[2021.07.15-00.20.55:979][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.07.15-00.20.55:979][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.07.15-00.20.55:979][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.07.15-00.20.55:979][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.07.15-00.20.55:979][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.07.15-00.20.55:979][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.07.15-00.20.55:979][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.07.15-00.20.55:979][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.07.15-00.20.55:979][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.07.15-00.20.55:979][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.07.15-00.20.55:979][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.07.15-00.20.55:979][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.07.15-00.20.55:979][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.07.15-00.20.55:979][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.07.15-00.20.55:979][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.07.15-00.20.55:979][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.07.15-00.20.55:979][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.07.15-00.20.55:979][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.07.15-00.20.55:979][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.07.15-00.20.55:979][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.07.15-00.20.55:979][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.07.15-00.20.55:979][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.07.15-00.20.55:979][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.07.15-00.20.55:979][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.07.15-00.20.55:979][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.07.15-00.20.55:979][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.07.15-00.20.55:979][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.07.15-00.20.55:979][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/GitHub/AlAirev1_2/Al-Aire/AlAire/Saved/Config/Windows/Scalability.ini]
+[2021.07.15-00.20.55:979][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.07.15-00.20.55:979][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.07.15-00.20.55:979][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/GitHub/AlAirev1_2/Al-Aire/AlAire/Saved/Config/Windows/Scalability.ini]
+[2021.07.15-00.20.55:979][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.07.15-00.20.55:979][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.07.15-00.20.55:979][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.07.15-00.20.55:979][  0]LogInit: Selected Device Profile: [Windows]
+[2021.07.15-00.20.55:979][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.07.15-00.20.55:979][  0]LogHAL: Display: Platform has ~ 16 GB [17129914368 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.07.15-00.20.55:979][  0]LogInit: Going up to parent DeviceProfile []
+[2021.07.15-00.20.55:979][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/GitHub/AlAirev1_2/Al-Aire/AlAire/Saved/Config/Windows/Scalability.ini]
+[2021.07.15-00.20.55:979][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.07.15-00.20.55:979][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.07.15-00.20.55:979][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/GitHub/AlAirev1_2/Al-Aire/AlAire/Saved/Config/Windows/Scalability.ini]
+[2021.07.15-00.20.55:979][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.07.15-00.20.55:979][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/GitHub/AlAirev1_2/Al-Aire/AlAire/Saved/Config/Windows/Scalability.ini]
+[2021.07.15-00.20.55:979][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.07.15-00.20.55:979][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.07.15-00.20.55:979][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.07.15-00.20.55:979][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.07.15-00.20.55:979][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.07.15-00.20.55:979][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.07.15-00.20.55:979][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.07.15-00.20.55:979][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.07.15-00.20.55:979][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.07.15-00.20.55:980][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.07.15-00.20.55:980][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.07.15-00.20.55:980][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.07.15-00.20.55:980][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.07.15-00.20.55:980][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.07.15-00.20.55:980][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.07.15-00.20.55:980][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.07.15-00.20.55:980][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.07.15-00.20.55:980][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.07.15-00.20.55:980][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/GitHub/AlAirev1_2/Al-Aire/AlAire/Saved/Config/Windows/Scalability.ini]
+[2021.07.15-00.20.55:980][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.07.15-00.20.55:980][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.07.15-00.20.55:980][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.07.15-00.20.55:980][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.07.15-00.20.55:980][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.07.15-00.20.55:980][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.07.15-00.20.55:980][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.07.15-00.20.55:980][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.07.15-00.20.55:980][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.07.15-00.20.55:980][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.07.15-00.20.55:980][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.07.15-00.20.55:980][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.07.15-00.20.55:980][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.07.15-00.20.55:980][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.07.15-00.20.55:980][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.07.15-00.20.55:980][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.07.15-00.20.55:980][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.07.15-00.20.55:980][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.07.15-00.20.55:980][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.07.15-00.20.55:980][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.07.15-00.20.55:980][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.07.15-00.20.55:980][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.07.15-00.20.55:980][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.07.15-00.20.55:980][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.07.15-00.20.55:980][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.07.15-00.20.55:980][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.07.15-00.20.55:980][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.07.15-00.20.55:980][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.07.15-00.20.55:980][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.07.15-00.20.55:980][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.07.15-00.20.55:980][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/GitHub/AlAirev1_2/Al-Aire/AlAire/Saved/Config/Windows/Scalability.ini]
+[2021.07.15-00.20.55:980][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.07.15-00.20.55:980][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.07.15-00.20.55:980][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.07.15-00.20.55:980][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.07.15-00.20.55:981][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.07.15-00.20.55:981][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.07.15-00.20.55:981][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.07.15-00.20.55:981][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.07.15-00.20.55:981][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.07.15-00.20.55:981][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/GitHub/AlAirev1_2/Al-Aire/AlAire/Saved/Config/Windows/Scalability.ini]
+[2021.07.15-00.20.55:981][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.07.15-00.20.55:981][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.07.15-00.20.55:981][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.07.15-00.20.55:981][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.07.15-00.20.55:981][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.07.15-00.20.55:981][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.07.15-00.20.55:981][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.07.15-00.20.55:981][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.07.15-00.20.55:981][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.07.15-00.20.55:981][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.07.15-00.20.55:981][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.07.15-00.20.55:981][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.07.15-00.20.55:981][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.07.15-00.20.55:981][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.07.15-00.20.55:981][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.07.15-00.20.55:981][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.07.15-00.20.55:981][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.07.15-00.20.55:981][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.07.15-00.20.55:981][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.07.15-00.20.55:981][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.07.15-00.20.55:981][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.07.15-00.20.55:981][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.07.15-00.20.55:981][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.07.15-00.20.55:981][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.07.15-00.20.55:981][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.07.15-00.20.55:981][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.07.15-00.20.55:981][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.07.15-00.20.55:981][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/GitHub/AlAirev1_2/Al-Aire/AlAire/Saved/Config/Windows/Scalability.ini]
+[2021.07.15-00.20.55:981][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.07.15-00.20.55:981][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.07.15-00.20.55:981][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/GitHub/AlAirev1_2/Al-Aire/AlAire/Saved/Config/Windows/Scalability.ini]
+[2021.07.15-00.20.55:981][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.07.15-00.20.55:981][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.07.15-00.20.55:981][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.07.15-00.20.55:981][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.07.15-00.20.55:987][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.07.15-00.20.55:987][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.07.15-00.20.55:987][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.07.15-00.20.55:987][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/GitHub/AlAirev1_2/Al-Aire/AlAire/Saved/Config/Windows/Engine.ini]
+[2021.07.15-00.20.55:987][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/GitHub/AlAirev1_2/Al-Aire/AlAire/Saved/Config/Windows/Editor.ini]
+[2021.07.15-00.20.55:988][  0]LogInit: Computer: DESKTOP-648NKNC
+[2021.07.15-00.20.55:988][  0]LogInit: User: TIPC1
+[2021.07.15-00.20.55:988][  0]LogInit: CPU Page size=4096, Cores=4
+[2021.07.15-00.20.55:988][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.07.15-00.20.55:988][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2021.07.15-00.20.55:988][  0]LogMemory: Platform Memory Stats for Windows
+[2021.07.15-00.20.55:988][  0]LogMemory: Process Physical Memory: 135.62 MB used, 135.62 MB peak
+[2021.07.15-00.20.55:988][  0]LogMemory: Process Virtual Memory: 118.41 MB used, 118.41 MB peak
+[2021.07.15-00.20.55:988][  0]LogMemory: Physical Memory: 7861.90 MB used,  8474.46 MB free, 16336.36 MB total
+[2021.07.15-00.20.55:988][  0]LogMemory: Virtual Memory: 134210432.00 MB used,  7299.67 MB free, 134217728.00 MB total
+[2021.07.15-00.20.55:994][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.07.15-00.20.57:108][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.07.15-00.20.57:113][  0]LogInit: Overriding language with editor language configuration option (en).
+[2021.07.15-00.20.57:113][  0]LogInit: Overriding language with editor locale configuration option (en).
+[2021.07.15-00.20.57:438][  0]LogInit: Setting process to per monitor DPI aware
+[2021.07.15-00.20.57:457][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.07.15-00.21.04:187][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.07.15-00.21.04:187][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.07.15-00.21.07:231][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.07.15-00.21.07:231][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.07.15-00.21.07:231][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.07.15-00.21.07:232][  0]LogD3D11RHI: D3D11 adapters:
+[2021.07.15-00.21.07:368][  0]LogD3D11RHI:    0. 'AMD Radeon (TM) R7 370 Series Graphics' (Feature Level 11_0)
+[2021.07.15-00.21.07:368][  0]LogD3D11RHI:       4075/0/8168 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2021.07.15-00.21.07:371][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.07.15-00.21.07:371][  0]LogD3D11RHI:       0/0/8168 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.07.15-00.21.07:371][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.07.15-00.21.07:378][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.07.15-00.21.07:378][  0]LogD3D11RHI:     GPU DeviceId: 0x6811 (for the marketing name, search the web for "GPU Device Id")
+[2021.07.15-00.21.07:378][  0]LogWindows: EnumDisplayDevices:
+[2021.07.15-00.21.07:378][  0]LogWindows:    0. 'AMD Radeon (TM) R7 370 Series Graphics' (P:1 D:1)
+[2021.07.15-00.21.07:378][  0]LogWindows:    1. 'AMD Radeon (TM) R7 370 Series Graphics' (P:0 D:0)
+[2021.07.15-00.21.07:379][  0]LogWindows:    2. 'AMD Radeon (TM) R7 370 Series Graphics' (P:0 D:0)
+[2021.07.15-00.21.07:379][  0]LogWindows:    3. 'AMD Radeon (TM) R7 370 Series Graphics' (P:0 D:0)
+[2021.07.15-00.21.07:379][  0]LogWindows:    4. 'AMD Radeon (TM) R7 370 Series Graphics' (P:0 D:0)
+[2021.07.15-00.21.07:380][  0]LogWindows:    5. 'AMD Radeon (TM) R7 370 Series Graphics' (P:0 D:0)
+[2021.07.15-00.21.07:380][  0]LogWindows:    6. 'AMD Radeon (TM) R7 370 Series Graphics' (P:0 D:0)
+[2021.07.15-00.21.07:380][  0]LogWindows:    7. 'AMD Radeon (TM) R7 370 Series Graphics' (P:0 D:0)
+[2021.07.15-00.21.07:381][  0]LogWindows: DebugString: FoundDriverCount:8 
+[2021.07.15-00.21.07:381][  0]LogD3D11RHI:     Adapter Name: AMD Radeon (TM) R7 370 Series Graphics
+[2021.07.15-00.21.07:381][  0]LogD3D11RHI:   Driver Version: Adrenalin 2020 21.4.1 (internal:27.20.21002.112, unified:27.20.21002.112)
+[2021.07.15-00.21.07:381][  0]LogD3D11RHI:      Driver Date: 4-13-2021
+[2021.07.15-00.21.07:381][  0]LogRHI: Texture pool is 2425 MB (70% of 3464 MB)
+[2021.07.15-00.21.07:490][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.07.15-00.21.07:490][  0]LogD3D11RHI: Async texture creation enabled
+[2021.07.15-00.21.07:490][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.07.15-00.21.07:508][  0]LogD3D11RHI: GPU Timing Frequency: 27.000000 (Debug: 2 1)
+[2021.07.15-00.21.08:228][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.07.15-00.21.08:285][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.07.15-00.21.08:285][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.07.15-00.21.08:285][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.07.15-00.21.08:285][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.07.15-00.21.08:285][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.07.15-00.21.08:285][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.07.15-00.21.08:285][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.07.15-00.21.08:285][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.07.15-00.21.08:285][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.07.15-00.21.08:285][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.07.15-00.21.08:383][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.07.15-00.21.08:383][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.07.15-00.21.08:421][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.07.15-00.21.08:450][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.07.15-00.21.08:476][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.07.15-00.21.08:501][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.07.15-00.21.08:528][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.07.15-00.21.08:556][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.07.15-00.21.08:582][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.07.15-00.21.08:631][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.07.15-00.21.08:631][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.07.15-00.21.08:670][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.07.15-00.21.08:717][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.07.15-00.21.08:753][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.07.15-00.21.08:786][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.07.15-00.21.08:825][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.07.15-00.21.08:825][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.07.15-00.21.08:859][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.07.15-00.21.08:893][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.07.15-00.21.08:925][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.07.15-00.21.08:960][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.07.15-00.21.08:960][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.07.15-00.21.09:066][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.07.15-00.21.09:916][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.07.15-00.21.09:916][  0]LogShaderCompilers: Guid format shader working directory is 12 characters bigger than the processId version (C:/GitHub/AlAirev1_2/Al-Aire/AlAire/Intermediate/Shaders/WorkingDirectory/3184/).
+[2021.07.15-00.21.09:916][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/TI-PC1/AppData/Local/Temp/UnrealShaderWorkingDir/C153D7D44FC08CFA45FB07A73438DAB7/'.
+[2021.07.15-00.21.09:916][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.07.15-00.21.09:916][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.07.15-00.21.13:599][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.07.15-00.21.13:661][  0]LogDerivedDataCache: Loaded boot cache 0.06s 77MB C:/Users/TI-PC1/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.07.15-00.21.13:661][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/TI-PC1/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.07.15-00.21.13:661][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/GitHub/AlAirev1_2/Al-Aire/AlAire/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.07.15-00.21.13:661][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.07.15-00.21.13:662][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/GitHub/AlAirev1_2/Al-Aire/AlAire/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.07.15-00.21.13:662][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.07.15-00.21.13:698][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.07.15-00.21.13:698][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.07.15-00.21.13:698][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.07.15-00.21.13:758][  0]LogDerivedDataCache: Speed tests for C:/Users/TI-PC1/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.06 seconds
+[2021.07.15-00.21.13:758][  0]LogDerivedDataCache: Display: Performance to C:/Users/TI-PC1/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.03ms. RandomReadSpeed=17.31MBs, RandomWriteSpeed=169.06MBs. Assigned SpeedClass 'Local'
+[2021.07.15-00.21.13:759][  0]LogDerivedDataCache: Using Local data cache path C:/Users/TI-PC1/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.07.15-00.21.13:760][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.07.15-00.21.13:760][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.07.15-00.21.13:821][  0]LogSlate: Using FreeType 2.10.0
+[2021.07.15-00.21.13:848][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.07.15-00.21.14:202][  0]LogAssetRegistry: FAssetRegistry took 0.0026 seconds to start up
+[2021.07.15-00.21.14:519][  0]LogInit: Selected Device Profile: [Windows]
+[2021.07.15-00.21.14:519][  0]LogInit: Active device profile: [000001DF7F2BFC00][000001DF7D550EC0 49] Windows
+[2021.07.15-00.21.14:519][  0]LogInit: Profiles: [000001DF7F2BFC00][000001DF7D550EC0 49] Windows, [000001DF7F288500][000001DF7D559040 49] WindowsNoEditor, [000001DF7F2BC500][000001DF7D55D1C0 49] WindowsServer, [000001DF7F28B800][000001DF7D561340 49] WindowsClient, [000001DF7F2BF700][000001DF7D5654C0 49] IOS, [000001DF7F288A00][000001DF7D569640 49] iPadAir, [000001DF7F2BCA00][000001DF7D555780 49] iPadAir2, [000001DF7F249400][000001DF7DECF9C0 49] IPadPro, [000001DF7F249500][000001DF7D56DA00 49] iPadAir3, [000001DF7F2BF500][000001DF7DED7B80 49] iPadAir4, [000001DF7F248A00][000001DF7DEDBD00 49] iPadMini2, [000001DF7F2BD800][000001DF7DEDE1C0 49] iPadMini3, [000001DF7F24A100][000001DF7DEE2340 49] iPadMini4, [000001DF7F2BF000][000001DF7DEE64C0 49] iPadMini5, [000001DF7F28A700][000001DF7DEEE780 49] iPhone6, [000001DF7F28A600][000001DF7DEEA7C0 49] iPodTouch6, [000001DF7F24B900][000001DF7DEF6A80 49] iPhone7, [000001DF7F24B700][000001DF7DEF2AC0 49] iPodTouch7, [000001DF7F28BE00][000001DF7DEFAC40 49] iPhone5S, [000001DF7F24BA00][000001DF7DEFEDC0 49] iPhone6Plus, [000001DF7F289C00][000001DF7DF02F40 49] iPhone6S, [000001DF7F24AD00][000001DF7DF070C0 49] iPhone6SPlus, [000001DF7F28B500][000001DF7DF0B240 49] iPhone7Plus, [000001DF7F248300][000001DF7DF0F3C0 49] iPhoneSE, [000001DF7F288700][000001DF7DF13540 49] iPhone8, [000001DF7F248F00][000001DF7DF176C0 49] iPhone8Plus, [000001DF7F28BA00][000001DF7DED3800 49] iPhoneX, [000001DF7F248800][000001DF7DF1B940 49] iPhoneXS, [000001DF7F28A300][000001DF7DF1FA80 49] iPhoneXSMax, [000001DF7F248E00][000001DF7DF27C00 49] iPhoneXR, [000001DF7F289D00][000001DF7DF2A0C0 49] iPhone11, [000001DF7F248900][000001DF7DF2E240 49] iPhone11Pro, [000001DF7F289E00][000001DF7DF323C0 49] iPhone11ProMax, [000001DF7F249000][000001DF7DF36540 49] iPhoneSE2, [000001DF7F28B700][000001DF7DF3A6C0 49] iPhone12Mini, [000001DF7F24B300][000001DF7DF3E840 49] iPhone12, [000001DF7F28BC00][000001DF7DF429C0 49] iPhone12Pro, [000001DF7F24B500][000001DF7DF46B40 49] iPhone12ProMax, [000001DF7F28AA00][000001DF7DF4ACC0 49] iPadPro105, [000001DF7F24B600][000001DF7DF4EE40 49] iPadPro129, [000001DF7F28B900][000001DF7DF52FC0 49] iPadPro97, [000001DF7F249600][000001DF7DF57140 49] iPadPro2_129, [000001DF7F28BB00][000001DF7DF5B2C0 49] iPad5, [000001DF7F249100][000001DF7DF5F440 49] iPad6, [000001DF7F28A800][000001DF7DF635C0 49] iPad7, [000001DF7F249D00][000001DF7DF67740 49] iPad8, [000001DF7F28AF00][000001DF7DF23880 49] iPadPro11, [000001DF7F24A300][000001DF7DF6B9C0 49] iPadPro2_11, [000001DF7F288400][000001DF7DF6FB00 49] iPadPro3_129, [000001DF7F248200][000001DF7DF73C40 49] iPadPro4_129, [000001DF7F28B200][000001DF7DF7A100 49] AppleTV, [000001DF7F24B100][000001DF7DF7E280 49] AppleTV4K, [000001DF7F28B100][000001DF7DF82400 49] TVOS, [000001DF7F24BC00][000001DF7DF86580 49] Mac, [000001DF7F288100][000001DF7DF8A700 49] MacClient, [000001DF7F24A700][000001DF7DF8E880 49] MacNoEditor, [000001DF7F289800][000001DF7DF92A00 49] MacServer, [000001DF7F24A600][000001DF7DF96B80 49] Linux, [000001DF7F288800][000001DF7DF9AD00 49] LinuxAArch64, [000001DF7F249B00][000001DF7DF9EE80 49] LinuxNoEditor, [000001DF7F28BF00][000001DF7DFA3000 49] LinuxAArch64NoEditor, [000001DF7F24A200][000001DF7DFA7180 49] LinuxClient, [000001DF7F288D00][000001DF7DFAB300 49] LinuxAArch64Client, [000001DF7F24AB00][000001DF7DFAF480 49] LinuxServer, [000001DF7F28AC00][000001DF7DFB3600 49] LinuxAArch64Server, [000001DF7F2BD200][000001DF7DFB7780 49] Android, [000001DF7F311500][000001DF7DF778C0 49] Android_Low, [000001DF7F2BE700][000001DF7DFBBA00 49] Android_Mid, [000001DF7F311B00][000001DF7DFBFB40 49] Android_High, [000001DF7F2BDD00][000001DF7DFC3C80 49] Android_Default, [000001DF7F311C00][000001DF7DFCA140 49] Android_Adreno4xx, [000001DF7F2BE200][000001DF7DFCE2C0 49] Android_Adreno5xx_Low, [000001DF7F310300][000001DF7DFD2440 49] Android_Adreno5xx, [000001DF7F2BE400][000001DF7DFD65C0 49] Android_Adreno6xx, [000001DF7F310100][000001DF7DFDA740 49] Android_Adreno6xx_Vulkan, [000001DF7F2BD300][000001DF7DFDE8C0 49] Android_Mali_T6xx, [000001DF7F310A00][000001DF7DFE2A40 49] Android_Mali_T7xx, [000001DF7F2BC100][000001DF7DFE6BC0 49] Android_Mali_T8xx, [000001DF7F310900][000001DF7DFEAD40 49] Android_Mali_G71, [000001DF7F2BC900][000001DF7DFEEEC0 49] Android_Mali_G72, [000001DF7F311000][000001DF7DFF3040 49] Android_Mali_G72_Vulkan, [000001DF7F2BEB00][000001DF7DFF71C0 49] Android_Mali_G76, [000001DF7F310200][000001DF7DFFB340 49] Android_Mali_G76_Vulkan, [000001DF7F2BE600][000001DF7DFFF4C0 49] Android_Mali_G77, [000001DF7F310B00][000001DF7E003640 49] Android_Mali_G77_Vulkan, [000001DF7F2BCC00][000001DF7E0077C0 49] Android_Vulkan_SM5, [000001DF7F310D00][000001DF7E00B940 49] Android_PowerVR_G6xxx, [000001DF7F289A00][000001DF7DFC7A80 49] Android_PowerVR_GT7xxx, [000001DF7F24A800][000001DF7E00FBC0 49] Android_PowerVR_GE8xxx, [000001DF7F288300][000001DF7E013D00 49] Android_PowerVR_GM9xxx, [000001DF7F24BD00][000001DF7E01A1C0 49] Android_PowerVR_GM9xxx_Vulkan, [000001DF7F288C00][000001DF7E01E340 49] Android_TegraK1, [000001DF7F249300][000001DF7E0224C0 49] Android_Unknown_Vulkan, [000001DF7F289700][000001DF7E026640 49] Lumin, [000001DF7F24B200][000001DF7E02A7C0 49] Lumin_Desktop, [000001DF7F288E00][000001DF7E02E940 49] HoloLens, 
+[2021.07.15-00.21.15:371][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.07.15-00.21.15:371][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.07.15-00.21.15:371][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.07.15-00.21.15:371][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.07.15-00.21.15:371][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.07.15-00.21.15:439][  0]LogNetVersion: AlAire 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 235659862)
+[2021.07.15-00.21.19:307][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.07.15-00.21.19:372][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.064545 seconds
+[2021.07.15-00.21.19:377][  0]LogUObjectArray: 16831 objects as part of root set at end of initial load.
+[2021.07.15-00.21.19:377][  0]LogUObjectAllocator: 4209728 out of 0 bytes used by permanent object pool.
+[2021.07.15-00.21.19:377][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.07.15-00.21.22:729][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.07.15-00.21.22:765][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.07.15-00.21.25:982][  0]SourceControl: Source control is disabled
+[2021.07.15-00.21.25:982][  0]SourceControl: Source control is disabled
+[2021.07.15-00.21.26:015][  0]SourceControl: Source control is disabled
+[2021.07.15-00.21.26:083][  0]SourceControl: Source control is disabled
+[2021.07.15-00.21.26:204][  0]SourceControl: Source control is disabled
+[2021.07.15-00.21.26:241][  0]LogUProjectInfo: Found projects:
+[2021.07.15-00.21.26:421][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.07.15-00.21.26:634][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.07.15-00.21.26:634][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.07.15-00.21.27:734][  0]LogCollectionManager: Loaded 0 collections in 0.001696 seconds
+[2021.07.15-00.21.27:889][  0]LogFileCache: Scanning file cache for directory 'C:/GitHub/AlAirev1_2/Al-Aire/AlAire/Saved/Collections/' took 0.00s
+[2021.07.15-00.21.27:890][  0]LogFileCache: Scanning file cache for directory 'C:/GitHub/AlAirev1_2/Al-Aire/AlAire/Content/Developers/TIPC1/Collections/' took 0.00s
+[2021.07.15-00.21.27:890][  0]LogFileCache: Scanning file cache for directory 'C:/GitHub/AlAirev1_2/Al-Aire/AlAire/Content/Collections/' took 0.00s
+[2021.07.15-00.21.27:890][  0]LogOcInput: OculusInput pre-init called
+[2021.07.15-00.21.27:978][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.07.15-00.21.27:978][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.07.15-00.21.28:205][  0]LogEngine: Initializing Engine...
+[2021.07.15-00.21.28:206][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.07.15-00.21.28:206][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.07.15-00.21.28:208][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.07.15-00.21.28:586][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.07.15-00.21.28:625][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.07.15-00.21.28:626][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.07.15-00.21.28:666][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.07.15-00.21.28:666][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.07.15-00.21.28:666][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.15-00.21.28:666][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.15-00.21.28:666][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.15-00.21.28:666][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.15-00.21.28:666][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.15-00.21.28:666][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.15-00.21.28:666][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.15-00.21.28:666][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.15-00.21.28:666][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.15-00.21.28:666][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.15-00.21.28:734][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.15-00.21.28:734][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.07.15-00.21.28:785][  0]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek High Definition Audio)
+[2021.07.15-00.21.28:786][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.15-00.21.28:819][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.15-00.21.28:819][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.15-00.21.28:821][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.15-00.21.28:821][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.15-00.21.28:821][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.15-00.21.28:822][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.15-00.21.28:822][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.15-00.21.28:822][  0]LogInit: FAudioDevice initialized.
+[2021.07.15-00.21.28:822][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.07.15-00.21.28:822][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.07.15-00.21.28:936][  0]LogDerivedDataCache: Saved boot cache 0.11s 77MB C:/Users/TI-PC1/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.07.15-00.21.28:937][  0]LogInit: Texture streaming: Enabled
+[2021.07.15-00.21.29:027][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2021.07.15-00.21.29:056][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.07.15-00.21.29:056][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.07.15-00.21.29:058][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.07.15-00.21.29:156][  0]LogInit: Transaction tracking system initialized
+[2021.07.15-00.21.29:342][  0]BlueprintLog: New page: Editor Load
+[2021.07.15-00.21.30:215][  0]LocalizationService: Localization service is disabled
+[2021.07.15-00.21.30:487][  0]TimingProfiler: Initialize
+[2021.07.15-00.21.30:487][  0]TimingProfiler: OnSessionChanged
+[2021.07.15-00.21.30:487][  0]LoadingProfiler: Initialize
+[2021.07.15-00.21.30:487][  0]LoadingProfiler: OnSessionChanged
+[2021.07.15-00.21.30:487][  0]NetworkingProfiler: Initialize
+[2021.07.15-00.21.30:487][  0]NetworkingProfiler: OnSessionChanged
+[2021.07.15-00.21.30:487][  0]MemoryProfiler: Initialize
+[2021.07.15-00.21.30:487][  0]MemoryProfiler: OnSessionChanged
+[2021.07.15-00.21.31:711][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.07.15-00.21.31:711][  0]LogCook: Display: Mobile HDR setting 1
+[2021.07.15-00.21.32:332][  0]LogFileCache: Scanning file cache for directory 'C:/GitHub/AlAirev1_2/Al-Aire/AlAire/Content/' took 0.01s
+[2021.07.15-00.21.33:374][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.07.15-00.21.33:377][  0]SourceControl: Source control is disabled
+[2021.07.15-00.21.33:377][  0]LogUnrealEdMisc: Loading editor; pre map load, took 57.634
+[2021.07.15-00.21.33:377][  0]Cmd: MAP LOAD FILE="C:/GitHub/AlAirev1_2/Al-Aire/AlAire/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.07.15-00.21.33:377][  0]LogEditorServer: Warning: Can't find file 'C:/GitHub/AlAirev1_2/Al-Aire/AlAire/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.07.15-00.21.33:377][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.07.15-00.21.33:378][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.134ms to complete.
+[2021.07.15-00.21.33:378][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.001
+[2021.07.15-00.21.33:379][  0]LogUnrealEdMisc: Total Editor Startup Time, took 57.637
+[2021.07.15-00.21.33:529][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.15-00.21.33:538][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.15-00.21.33:545][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.15-00.21.33:551][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.15-00.21.33:573][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0116 seconds. Added 3601 classes and 859 folders.
+[2021.07.15-00.21.33:577][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.07.15-00.21.33:595][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.07.15-00.21.33:595][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.15-00.21.33:595][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.07.15-00.21.33:595][  0]LogPakFile: OnPakFileMounted2Time == 0.000010
+[2021.07.15-00.21.33:604][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.07.15-00.21.33:604][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.15-00.21.33:604][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.07.15-00.21.33:604][  0]LogPakFile: OnPakFileMounted2Time == 0.000014
+[2021.07.15-00.21.33:610][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.07.15-00.21.33:610][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.15-00.21.33:610][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.07.15-00.21.33:610][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
+[2021.07.15-00.21.33:618][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.07.15-00.21.33:619][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.15-00.21.33:619][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.07.15-00.21.33:619][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2021.07.15-00.21.33:625][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.07.15-00.21.33:625][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.15-00.21.33:625][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.07.15-00.21.33:625][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2021.07.15-00.21.33:631][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.07.15-00.21.33:631][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.15-00.21.33:631][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.07.15-00.21.33:631][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2021.07.15-00.21.33:636][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.07.15-00.21.33:636][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.15-00.21.33:637][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.07.15-00.21.33:637][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2021.07.15-00.21.33:642][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.07.15-00.21.33:643][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.15-00.21.33:643][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.07.15-00.21.33:643][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2021.07.15-00.21.33:653][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.07.15-00.21.33:653][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.15-00.21.33:653][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.07.15-00.21.33:653][  0]LogPakFile: OnPakFileMounted2Time == 0.000048
+[2021.07.15-00.21.33:660][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.07.15-00.21.33:660][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.15-00.21.33:660][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.07.15-00.21.33:660][  0]LogPakFile: OnPakFileMounted2Time == 0.000052
+[2021.07.15-00.21.33:667][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.07.15-00.21.33:667][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.15-00.21.33:667][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.07.15-00.21.33:667][  0]LogPakFile: OnPakFileMounted2Time == 0.000056
+[2021.07.15-00.21.33:673][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.07.15-00.21.33:673][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.15-00.21.33:673][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.07.15-00.21.33:673][  0]LogPakFile: OnPakFileMounted2Time == 0.000060
+[2021.07.15-00.21.33:679][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.07.15-00.21.33:679][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.15-00.21.33:679][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.07.15-00.21.33:679][  0]LogPakFile: OnPakFileMounted2Time == 0.000064
+[2021.07.15-00.21.33:686][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.07.15-00.21.33:686][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.15-00.21.33:686][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.07.15-00.21.33:686][  0]LogPakFile: OnPakFileMounted2Time == 0.000068
+[2021.07.15-00.21.33:694][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.07.15-00.21.33:694][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.15-00.21.33:694][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.07.15-00.21.33:694][  0]LogPakFile: OnPakFileMounted2Time == 0.000072
+[2021.07.15-00.21.33:703][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.07.15-00.21.33:703][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.15-00.21.33:703][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.07.15-00.21.33:703][  0]LogPakFile: OnPakFileMounted2Time == 0.000076
+[2021.07.15-00.21.33:709][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.07.15-00.21.33:709][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.15-00.21.33:709][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.07.15-00.21.33:709][  0]LogPakFile: OnPakFileMounted2Time == 0.000080
+[2021.07.15-00.21.33:717][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.07.15-00.21.33:717][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.15-00.21.33:717][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.07.15-00.21.33:717][  0]LogPakFile: OnPakFileMounted2Time == 0.000084
+[2021.07.15-00.21.33:723][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.07.15-00.21.33:723][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.15-00.21.33:723][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.07.15-00.21.33:723][  0]LogPakFile: OnPakFileMounted2Time == 0.000088
+[2021.07.15-00.21.33:733][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.07.15-00.21.33:733][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.15-00.21.33:733][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.07.15-00.21.33:733][  0]LogPakFile: OnPakFileMounted2Time == 0.000093
+[2021.07.15-00.21.33:740][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.07.15-00.21.33:740][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.15-00.21.33:740][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.07.15-00.21.33:740][  0]LogPakFile: OnPakFileMounted2Time == 0.000097
+[2021.07.15-00.21.33:745][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.07.15-00.21.33:745][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.15-00.21.33:745][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.07.15-00.21.33:745][  0]LogPakFile: OnPakFileMounted2Time == 0.000100
+[2021.07.15-00.21.33:752][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.07.15-00.21.33:753][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.15-00.21.33:753][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.07.15-00.21.33:753][  0]LogPakFile: OnPakFileMounted2Time == 0.000105
+[2021.07.15-00.21.33:758][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.07.15-00.21.33:758][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.15-00.21.33:758][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.07.15-00.21.33:758][  0]LogPakFile: OnPakFileMounted2Time == 0.000108
+[2021.07.15-00.21.33:763][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.07.15-00.21.33:763][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.15-00.21.33:763][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.07.15-00.21.33:763][  0]LogPakFile: OnPakFileMounted2Time == 0.000114
+[2021.07.15-00.21.33:772][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.07.15-00.21.33:772][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.15-00.21.33:772][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.07.15-00.21.33:772][  0]LogPakFile: OnPakFileMounted2Time == 0.000118
+[2021.07.15-00.21.34:077][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.07.15-00.21.34:078][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2021.07.15-00.21.34:149][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WorldBrowser' in 0.0002 seconds. Added 2 classes and 3 folders.
+[2021.07.15-00.21.34:252][  0]LogSlate: Took 0.005898 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.07.15-00.21.34:258][  0]LogSlate: Took 0.004766 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.07.15-00.21.34:270][  0]LogSlate: Took 0.006863 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.07.15-00.21.34:432][  0]LogRenderer: Reallocating scene render targets to support 1140x640 Format 10 NumSamples 1 (Frame:1).
+[2021.07.15-00.21.34:903][  0]LogSlate: Took 0.005959 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.07.15-00.21.35:026][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.07.15-00.21.35:026][  0]LogInput: Warning: Action Jump uses invalid key OculusGo_Left_Trigger_Click.
+[2021.07.15-00.21.35:026][  0]LogInput: Warning: Action ResetVR uses invalid key OculusGo_Left_Trackpad_Click.
+[2021.07.15-00.21.35:026][  0]LogInput: Warning: Use -RemoveInvalidKeys to remove instances of these keys from the action mapping.
+[2021.07.15-00.21.35:026][  0]LogLoad: (Engine Initialization) Total time: 59.28 seconds
+[2021.07.15-00.21.35:026][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.07.15-00.21.35:026][  0]LogInit: First time updating LLM stats...
+[2021.07.15-00.21.35:071][  0]LogAssetRegistry: Asset discovery search completed in 20.8707 seconds
+[2021.07.15-00.21.35:073][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2021.07.15-00.21.35:107][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.07.15-00.22.05:515][409]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2021.07.15-00.22.05:517][409]Cmd: MAP LOAD FILE="C:/GitHub/AlAirev1_2/Al-Aire/AlAire/Content/Map/Map1_House.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.07.15-00.22.05:520][409]LogSlate: Took 0.000122 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.07.15-00.22.05:538][409]LightingResults: New page: Lighting Build
+[2021.07.15-00.22.05:539][409]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'StatsViewer' in 0.0005 seconds. Added 6 classes and 0 folders.
+[2021.07.15-00.22.05:539][409]LoadErrors: New page: Loading map: Map1_House.umap
+[2021.07.15-00.22.05:539][409]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.07.15-00.22.05:539][409]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.15-00.22.05:540][409]MapCheck: New page: Map Check
+[2021.07.15-00.22.05:540][409]LightingResults: New page: Lighting Build
+[2021.07.15-00.22.05:546][409]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2021.07.15-00.22.05:706][409]LogAudio: Display: Audio Device (ID: 1) registered with world 'Map1_House'.
+[2021.07.15-00.22.05:707][409]LogAIModule: Creating AISystem for world Map1_House
+[2021.07.15-00.22.05:783][409]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.07.15-00.22.05:793][409]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.07.15-00.22.05:808][409]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.07.15-00.22.05:808][409]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.121ms to complete.
+[2021.07.15-00.22.05:808][409]LogFileHelpers: Loading map 'Map1_House' took 0.291
+[2021.07.15-00.22.05:809][409]LogSlate: Window 'Open Level' being destroyed
+[2021.07.15-00.22.10:360][834]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2021.07.15-00.22.10:360][834]Cmd: MAP LOAD FILE="C:/GitHub/AlAirev1_2/Al-Aire/AlAire/Content/Map/greyBox.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.07.15-00.22.10:395][834]LightingResults: New page: Lighting Build
+[2021.07.15-00.22.10:395][834]LoadErrors: New page: Loading map: greyBox.umap
+[2021.07.15-00.22.10:396][834]LogWorld: UWorld::CleanupWorld for Map1_House, bSessionEnded=true, bCleanupResources=true
+[2021.07.15-00.22.10:396][834]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.15-00.22.10:396][834]MapCheck: New page: Map Check
+[2021.07.15-00.22.10:396][834]LightingResults: New page: Lighting Build
+[2021.07.15-00.22.10:401][834]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.15-00.22.10:404][834]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2021.07.15-00.22.11:071][834]LogAudio: Display: Audio Device (ID: 1) registered with world 'greyBox'.
+[2021.07.15-00.22.11:072][834]LogAIModule: Creating AISystem for world greyBox
+[2021.07.15-00.22.11:144][834]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.07.15-00.22.11:152][834]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2021.07.15-00.22.11:163][834]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.07.15-00.22.11:164][834]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.18ms to complete.
+[2021.07.15-00.22.11:164][834]LogFileHelpers: Loading map 'greyBox' took 0.803
+[2021.07.15-00.22.11:164][834]LogSlate: Window 'Open Level' being destroyed
+[2021.07.15-00.28.51:342][829]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.07.15-00.29.03:173][670]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor2)
+[2021.07.15-00.29.09:416][139]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor3)
+[2021.07.15-00.29.09:910][191]LogSlate: Took 0.005627 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.07.15-00.29.21:602][ 68]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor2)
+[2021.07.15-00.29.27:627][751]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor3)
+[2021.07.15-00.29.29:804][  7]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1M_Cube_Chamfer)
+[2021.07.15-00.29.49:542][330]LogTemp: Repeating last play command: Selected Viewport
+[2021.07.15-00.29.49:547][330]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.15-00.29.49:547][330]PIE: New page: PIE session: greyBox (Jul 14, 2021, 4:29:49 PM)
+[2021.07.15-00.29.49:579][330]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.07.15-00.29.49:581][330]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.07.15-00.29.49:581][330]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_greyBox
+[2021.07.15-00.29.49:589][330]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008185s)
+[2021.07.15-00.29.49:591][330]LogAIModule: Creating AISystem for world greyBox
+[2021.07.15-00.29.49:591][330]LogPlayLevel: PIE: World Init took: (0.001765s)
+[2021.07.15-00.29.49:591][330]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/greyBox.greyBox to /Game/Map/UEDPIE_0_greyBox.greyBox (0.010181s)
+[2021.07.15-00.29.49:596][330]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2021.07.15-00.29.49:598][330]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.07.15-00.29.49:598][330]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.15-00.29.49:598][330]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.15-00.29.49:598][330]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.15-00.29.49:598][330]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.15-00.29.49:598][330]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.15-00.29.49:598][330]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.15-00.29.49:598][330]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.15-00.29.49:598][330]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.15-00.29.49:598][330]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.15-00.29.49:598][330]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.15-00.29.49:603][330]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.15-00.29.49:603][330]LogAudioMixer: Display: 1: FrontRight
+[2021.07.15-00.29.49:628][330]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek High Definition Audio)
+[2021.07.15-00.29.49:628][330]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.15-00.29.49:628][330]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.15-00.29.49:628][330]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.15-00.29.49:629][330]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.15-00.29.49:629][330]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.15-00.29.49:629][330]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.15-00.29.49:644][330]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.15-00.29.49:644][330]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.15-00.29.49:644][330]LogInit: FAudioDevice initialized.
+[2021.07.15-00.29.49:644][330]LogAudio: Display: Audio Device (ID: 2) registered with world 'greyBox'.
+[2021.07.15-00.29.49:762][330]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.07.15-00.29.49:765][330]LogWorld: Bringing World /Game/Map/UEDPIE_0_greyBox.greyBox up for play (max tick rate 0) at 2021.07.14-20.29.49
+[2021.07.15-00.29.49:765][330]LogWorld: Bringing up level for play took: 0.001186
+[2021.07.15-00.29.49:765][330]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2021.07.15-00.29.49:768][330]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2021.07.15-00.29.49:771][330]PIE: Server logged in
+[2021.07.15-00.29.49:772][330]PIE: Play in editor total start time 0.225 seconds.
+[2021.07.15-00.29.55:920][ 44]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.15-00.29.55:920][ 44]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_greyBox
+[2021.07.15-00.29.55:920][ 44]LogWorld: UWorld::CleanupWorld for greyBox, bSessionEnded=true, bCleanupResources=true
+[2021.07.15-00.29.55:920][ 44]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.15-00.29.55:932][ 44]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.15-00.29.55:950][ 44]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.15-00.29.55:954][ 44]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.15-00.29.55:954][ 44]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.15-00.29.55:955][ 44]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.15-00.29.55:975][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2021.07.15-00.29.56:006][ 45]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2021.07.15-00.29.57:090][153]MapCheck: New page: Map Check
+[2021.07.15-00.29.57:110][153]Cmd: MAP REBUILD ALLVISIBLE
+[2021.07.15-00.29.57:110][153]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2021.07.15-00.29.57:168][153]LogWorld: UWorld::CleanupWorld for greyBox, bSessionEnded=true, bCleanupResources=false
+[2021.07.15-00.29.57:177][153]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2021.07.15-00.29.57:177][153]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2021.07.15-00.29.57:177][153]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2021.07.15-00.29.57:183][153]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2021.07.15-00.29.57:188][153]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.15-00.29.57:194][153]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.15-00.29.57:196][153]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.15-00.29.57:198][153]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.15-00.29.57:203][153]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2021.07.15-00.29.57:203][153]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2021.07.15-00.29.57:203][153]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2021.07.15-00.29.57:203][153]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2021.07.15-00.29.57:203][153]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.15-00.29.57:205][153]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.15-00.29.59:816][153]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2021.07.15-00.29.59:816][153]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2021.07.15-00.29.59:816][153]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2021.07.15-00.29.59:816][153]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2021.07.15-00.29.59:816][153]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2021.07.15-00.29.59:816][153]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2021.07.15-00.29.59:816][153]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2021.07.15-00.29.59:816][153]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2021.07.15-00.29.59:816][153]TextureStreamingBuild: Display: Compiling optional shaders took 2.633 seconds.
+[2021.07.15-00.29.59:821][153]LogLevel: Display: Export Material TexCoord Scales took 0.005 seconds.
+[2021.07.15-00.29.59:822][153]TextureStreamingBuild: Display: Build Texture Streaming took 0.001 seconds.
+[2021.07.15-00.29.59:826][153]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2021.07.15-00.29.59:828][153]LightingResults: New page: Lighting Build - Jul 14, 2021, 4:29:59 PM
+[2021.07.15-00.29.59:974][153]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2021.07.15-00.30.00:276][153]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2021.07.15-00.30.00:291][153]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2021.07.15-00.30.01:316][153]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2021.07.15-00.30.01:316][153]LogSwarmInterface: [TryOpenConnection] Local Process ID is 3184
+[2021.07.15-00.30.03:800][153]LightingResults: Warning: No importance volume found and the scene is so large that the automatically synthesized volume will not yield good results.  Please add a tightly bounding lightmass importance volume to optimize your scene's quality and lighting build times.
+[2021.07.15-00.30.03:800][153]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2021.07.15-00.30.03:800][153]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2021.07.15-00.30.03:800][153]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2021.07.15-00.30.03:800][153]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2021.07.15-00.30.03:800][153]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2021.07.15-00.30.03:939][153]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2021.07.15-00.30.03:939][153]MapCheck: New page: greyBox - Jul 14, 2021, 4:30:03 PM
+[2021.07.15-00.30.03:939][153]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2021.07.15-00.30.03:939][153]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 0.649ms to complete.
+[2021.07.15-00.30.03:942][153]LogEditorBuildUtils: Build time 0:06
+[2021.07.15-00.30.04:111][153]LogSlate: Took 0.008418 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.07.15-00.30.04:578][156]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2021.07.15-00.30.07:863][165]Job is a success!
+[2021.07.15-00.30.08:386][166]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.066s
+[2021.07.15-00.30.08:386][166]LogVolumetricLightmapImport:      Indirection Texture 32x32x32 = 0.1Mb
+[2021.07.15-00.30.08:386][166]LogVolumetricLightmapImport:      BrickData (all levels) 0.6Mb
+[2021.07.15-00.30.08:386][166]LogVolumetricLightmapImport:      Bricks at depth
+[2021.07.15-00.30.08:386][166]LogVolumetricLightmapImport:          0: 5.6% covering 100.0% of volume
+[2021.07.15-00.30.08:386][166]LogVolumetricLightmapImport:          1: 34.0% covering 9.6% of volume
+[2021.07.15-00.30.08:386][166]LogVolumetricLightmapImport:          2: 60.4% covering 0.3% of volume
+[2021.07.15-00.30.08:386][166]LogVolumetricLightmapImport:      Bricks in each level
+[2021.07.15-00.30.08:386][166]LogVolumetricLightmapImport:          greyBox 			 144 bricks 	 100.0% (Persistent Level)
+[2021.07.15-00.30.08:485][166]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 256X256)
+[2021.07.15-00.30.08:486][166]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 256X256)
+[2021.07.15-00.30.08:486][166]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 256X256)
+[2021.07.15-00.30.08:486][166]LogTexture: Display: Building textures: HQ_Lightmap1_4 (AutoDXT, 128X128)
+[2021.07.15-00.30.08:486][166]LogTexture: Display: Building textures: LQ_Lightmap_1_4 (DXT1, 128X128)
+[2021.07.15-00.30.08:486][166]LogTexture: Display: Building textures: HQ_Lightmap1_5 (AutoDXT, 128X128)
+[2021.07.15-00.30.08:486][166]LogTexture: Display: Building textures: LQ_Lightmap_1_5 (DXT1, 128X128)
+[2021.07.15-00.30.08:486][166]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 256X256)
+[2021.07.15-00.30.08:486][166]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 256X256)
+[2021.07.15-00.30.08:486][166]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 256X256)
+[2021.07.15-00.30.08:486][166]LogTexture: Display: Building textures: HQ_Lightmap0_6 (AutoDXT, 64X64)
+[2021.07.15-00.30.08:486][166]LogTexture: Display: Building textures: LQ_Lightmap_0_6 (DXT1, 64X64)
+[2021.07.15-00.30.08:564][166]LogTexture: Display: Building textures: ShadowMapTexture2D_10 (G8, 32X32)
+[2021.07.15-00.30.08:564][166]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 64X64)
+[2021.07.15-00.30.08:564][166]LogTexture: Display: Building textures: ShadowMapTexture2D_9 (G8, 64X64)
+[2021.07.15-00.30.08:564][166]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 128X128)
+[2021.07.15-00.30.08:564][166]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 128X128)
+[2021.07.15-00.30.08:564][166]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 128X128)
+[2021.07.15-00.30.08:564][166]Lightmass on DESKTOP-648NKNC: 3.22 sec total, 264 ms importing, 27 ms setup, 464 ms photons, 2.44 sec processing, 0 ms extra exporting [6/6 mappings]. Threads: 17.1 sec total, 905 ms processing.
+[2021.07.15-00.30.08:565][166]LogStaticLightingSystem: greyBox_BuiltData storing lightmap data for 6 meshes in 6 LightmapResourceClusters (1.0 Meshes per cluster).
+[2021.07.15-00.30.08:572][166]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2021.07.15-00.30.08:582][166]LogStaticLightingSystem: Illumination: 8.41 sec (136 ms encoding lightmaps, 9 ms encoding shadowmaps)
+[2021.07.15-00.30.08:582][166]LogStaticLightingSystem: Lightmap texture memory:  0.4 MB (0.4 MB streaming, 0.0 MB non-streaming), 12 textures
+[2021.07.15-00.30.08:582][166]LogStaticLightingSystem: Shadowmap texture memory: 0.1 MB (0.1 MB streaming, 0.0 MB non-streaming), 6 textures
+[2021.07.15-00.30.08:807][166]DumpUnbuiltLightIteractions
+[2021.07.15-00.30.08:807][166]Lights with unbuilt interactions: 0
+[2021.07.15-00.30.08:807][166]
+[2021.07.15-00.30.08:807][166]Primitives with unbuilt interactions: 0
+[2021.07.15-00.30.08:879][166]LogTexture: Display: Building textures: NewReflectionComponentTextureEB9CBE3C423008B5E8E130901E171C89 (BGRA8, 128X128)
+[2021.07.15-00.30.08:921][167]Cmd: MAP CHECK NOTIFYRESULTS
+[2021.07.15-00.30.08:922][167]MapCheck: New page: greyBox - Jul 14, 2021, 4:30:08 PM
+[2021.07.15-00.30.08:922][167]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.466ms to complete.
+[2021.07.15-00.32.17:790][551]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2021.07.15-00.32.17:792][551]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/greyBox" FILE="C:/GitHub/AlAirev1_2/Al-Aire/AlAire/Saved/Autosaves/Game/Map/greyBox_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2021.07.15-00.32.17:812][551]LogSavePackage: Moving 'C:/GitHub/AlAirev1_2/Al-Aire/AlAire/Saved/greyBox_Auto195C820D342BD447AB617CDA39B161FA9.tmp' to 'C:/GitHub/AlAirev1_2/Al-Aire/AlAire/Saved/Autosaves/Game/Map/greyBox_Auto1.umap'
+[2021.07.15-00.32.17:813][551]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Map/greyBox' took 0.029
+[2021.07.15-00.32.17:813][551]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.029
+[2021.07.15-00.37.51:438][713]LogSlate: Window 'Message Log' being destroyed
+[2021.07.15-00.37.51:452][713]LogSlate: Window 'Message Log' being destroyed
+[2021.07.15-00.37.57:700][424]LogTemp: Repeating last play command: Selected Viewport
+[2021.07.15-00.37.57:705][424]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.15-00.37.57:705][424]PIE: New page: PIE session: greyBox (Jul 14, 2021, 4:37:57 PM)
+[2021.07.15-00.37.57:728][424]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_greyBox
+[2021.07.15-00.37.57:736][424]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007006s)
+[2021.07.15-00.37.57:737][424]LogAIModule: Creating AISystem for world greyBox
+[2021.07.15-00.37.57:737][424]LogPlayLevel: PIE: World Init took: (0.001257s)
+[2021.07.15-00.37.57:737][424]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/greyBox.greyBox to /Game/Map/UEDPIE_0_greyBox.greyBox (0.008608s)
+[2021.07.15-00.37.57:743][424]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2021.07.15-00.37.57:744][424]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2021.07.15-00.37.57:744][424]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.15-00.37.57:744][424]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.15-00.37.57:744][424]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.15-00.37.57:744][424]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.15-00.37.57:744][424]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.15-00.37.57:744][424]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.15-00.37.57:744][424]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.15-00.37.57:744][424]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.15-00.37.57:745][424]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.15-00.37.57:745][424]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.15-00.37.57:749][424]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.15-00.37.57:749][424]LogAudioMixer: Display: 1: FrontRight
+[2021.07.15-00.37.57:776][424]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek High Definition Audio)
+[2021.07.15-00.37.57:777][424]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.15-00.37.57:777][424]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.15-00.37.57:777][424]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.15-00.37.57:778][424]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.15-00.37.57:778][424]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.15-00.37.57:778][424]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.15-00.37.57:794][424]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.15-00.37.57:794][424]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.15-00.37.57:794][424]LogInit: FAudioDevice initialized.
+[2021.07.15-00.37.57:794][424]LogAudio: Display: Audio Device (ID: 3) registered with world 'greyBox'.
+[2021.07.15-00.37.57:802][424]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.07.15-00.37.57:804][424]LogWorld: Bringing World /Game/Map/UEDPIE_0_greyBox.greyBox up for play (max tick rate 0) at 2021.07.14-20.37.57
+[2021.07.15-00.37.57:805][424]LogWorld: Bringing up level for play took: 0.001448
+[2021.07.15-00.37.57:805][424]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2021.07.15-00.37.57:810][424]PIE: Server logged in
+[2021.07.15-00.37.57:811][424]PIE: Play in editor total start time 0.107 seconds.
+[2021.07.15-00.38.14:969][474]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.15-00.38.14:969][474]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_greyBox
+[2021.07.15-00.38.14:969][474]LogWorld: UWorld::CleanupWorld for greyBox, bSessionEnded=true, bCleanupResources=true
+[2021.07.15-00.38.14:969][474]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.15-00.38.14:981][474]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.15-00.38.15:005][474]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.15-00.38.15:011][474]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.15-00.38.15:012][474]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.15-00.38.15:013][474]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.15-00.38.15:033][474]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.15-00.38.15:036][474]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2021.07.15-00.38.15:072][475]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2021.07.15-00.38.27:839][730]LogTexture: Display: Building textures: Texture2D_2 (G8, 128X128)
+[2021.07.15-00.39.39:336][319]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/greyBox" FILE="C:/GitHub/AlAirev1_2/Al-Aire/AlAire/Content/Map/greyBox.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.07.15-00.39.39:341][319]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2021.07.15-00.39.39:364][319]LogSavePackage: Moving 'C:/GitHub/AlAirev1_2/Al-Aire/AlAire/Saved/greyBoxB13DA5304CB4D4B8EB46789F0EA1726A.tmp' to 'C:/GitHub/AlAirev1_2/Al-Aire/AlAire/Content/Map/greyBox.umap'
+[2021.07.15-00.39.39:377][319]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/greyBox_BuiltData" FILE="C:/GitHub/AlAirev1_2/Al-Aire/AlAire/Content/Map/greyBox_BuiltData.uasset" SILENT=true
+[2021.07.15-00.39.39:415][319]LogSavePackage: Moving 'C:/GitHub/AlAirev1_2/Al-Aire/AlAire/Saved/greyBox_BuiltDataAEC30D61414D28CC7323A18C2C2E5451.tmp' to 'C:/GitHub/AlAirev1_2/Al-Aire/AlAire/Content/Map/greyBox_BuiltData.uasset'
+[2021.07.15-00.39.39:431][319]AssetCheck: New page: Asset Save: multiple assets
+[2021.07.15-00.39.39:431][319]LogContentValidation: Display: Validating World /Game/Map/greyBox.greyBox
+[2021.07.15-00.39.39:431][319]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Map/greyBox_BuiltData.greyBox_BuiltData
+[2021.07.15-00.39.42:537][644]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2021.07.15-00.44.29:137][902]Cmd: TRANSACTION UNDO
+[2021.07.15-00.44.29:137][902]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2021.07.15-00.44.48:593][843]Cmd: TRANSACTION UNDO
+[2021.07.15-00.44.48:594][843]LogEditorTransaction: Undo Landscape Editing: Noise
+[2021.07.15-00.44.56:616][619]Cmd: TRANSACTION UNDO
+[2021.07.15-00.44.56:616][619]LogEditorTransaction: Undo Landscape Editing: Noise
+[2021.07.15-00.45.04:667][325]Cmd: TRANSACTION UNDO
+[2021.07.15-00.45.04:667][325]LogEditorTransaction: Undo Landscape Editing: Noise
+[2021.07.15-00.45.04:685][325]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2021.07.15-00.45.21:272][ 32]Cmd: TRANSACTION UNDO
+[2021.07.15-00.45.21:272][ 32]LogEditorTransaction: Undo Landscape Editing: Noise
+[2021.07.15-00.45.21:288][ 32]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2021.07.15-00.45.24:152][236]Cmd: TRANSACTION UNDO
+[2021.07.15-00.45.24:153][236]LogEditorTransaction: Undo Landscape Editing: Noise
+[2021.07.15-00.45.24:174][236]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2021.07.15-00.46.36:810][605]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/greyBox" FILE="C:/GitHub/AlAirev1_2/Al-Aire/AlAire/Content/Map/greyBox.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.07.15-00.46.36:817][605]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2021.07.15-00.46.36:823][605]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2021.07.15-00.46.36:856][605]LogSavePackage: Moving 'C:/GitHub/AlAirev1_2/Al-Aire/AlAire/Saved/greyBox904BB3484D92E231FD084E8C517CB367.tmp' to 'C:/GitHub/AlAirev1_2/Al-Aire/AlAire/Content/Map/greyBox.umap'
+[2021.07.15-00.46.36:869][605]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/greyBox_BuiltData" FILE="C:/GitHub/AlAirev1_2/Al-Aire/AlAire/Content/Map/greyBox_BuiltData.uasset" SILENT=true
+[2021.07.15-00.46.36:905][605]LogSavePackage: Moving 'C:/GitHub/AlAirev1_2/Al-Aire/AlAire/Saved/greyBox_BuiltData2928ACD74031B0EF4AA65AB69674C338.tmp' to 'C:/GitHub/AlAirev1_2/Al-Aire/AlAire/Content/Map/greyBox_BuiltData.uasset'
+[2021.07.15-00.46.36:918][605]AssetCheck: New page: Asset Save: multiple assets
+[2021.07.15-00.46.36:918][605]LogContentValidation: Display: Validating World /Game/Map/greyBox.greyBox
+[2021.07.15-00.46.36:918][605]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Map/greyBox_BuiltData.greyBox_BuiltData
+[2021.07.15-00.57.28:939][794]LogTemp: Repeating last play command: Selected Viewport
+[2021.07.15-00.57.28:943][794]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.15-00.57.28:943][794]PIE: New page: PIE session: greyBox (Jul 14, 2021, 4:57:28 PM)
+[2021.07.15-00.57.28:968][794]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_greyBox
+[2021.07.15-00.57.28:977][794]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009618s)
+[2021.07.15-00.57.28:978][794]LogAIModule: Creating AISystem for world greyBox
+[2021.07.15-00.57.28:979][794]LogPlayLevel: PIE: World Init took: (0.001357s)
+[2021.07.15-00.57.28:979][794]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/greyBox.greyBox to /Game/Map/UEDPIE_0_greyBox.greyBox (0.011232s)
+[2021.07.15-00.57.28:987][794]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2021.07.15-00.57.28:988][794]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2021.07.15-00.57.28:988][794]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.15-00.57.28:988][794]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.15-00.57.28:988][794]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.15-00.57.28:988][794]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.15-00.57.28:988][794]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.15-00.57.28:988][794]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.15-00.57.28:988][794]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.15-00.57.28:988][794]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.15-00.57.28:989][794]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.15-00.57.28:989][794]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.15-00.57.28:993][794]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.15-00.57.28:993][794]LogAudioMixer: Display: 1: FrontRight
+[2021.07.15-00.57.29:024][794]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek High Definition Audio)
+[2021.07.15-00.57.29:024][794]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.15-00.57.29:024][794]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.15-00.57.29:024][794]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.15-00.57.29:025][794]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.15-00.57.29:025][794]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.15-00.57.29:025][794]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.15-00.57.29:041][794]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.15-00.57.29:041][794]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.15-00.57.29:041][794]LogInit: FAudioDevice initialized.
+[2021.07.15-00.57.29:041][794]LogAudio: Display: Audio Device (ID: 4) registered with world 'greyBox'.
+[2021.07.15-00.57.29:050][794]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.07.15-00.57.29:052][794]LogWorld: Bringing World /Game/Map/UEDPIE_0_greyBox.greyBox up for play (max tick rate 0) at 2021.07.14-20.57.29
+[2021.07.15-00.57.29:052][794]LogWorld: Bringing up level for play took: 0.001331
+[2021.07.15-00.57.29:052][794]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2021.07.15-00.57.29:056][794]PIE: Server logged in
+[2021.07.15-00.57.29:057][794]PIE: Play in editor total start time 0.114 seconds.
+[2021.07.15-00.57.38:839][920]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.15-00.57.38:839][920]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_greyBox
+[2021.07.15-00.57.38:839][920]LogWorld: UWorld::CleanupWorld for greyBox, bSessionEnded=true, bCleanupResources=true
+[2021.07.15-00.57.38:840][920]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.15-00.57.38:852][920]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.15-00.57.38:855][920]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.15-00.57.38:865][920]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.15-00.57.38:865][920]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.15-00.57.38:867][920]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.15-00.57.38:896][920]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.15-00.57.38:898][920]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.07.15-00.57.38:916][921]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2021.07.15-00.58.36:058][120]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/greyBox" FILE="C:/GitHub/AlAirev1_2/Al-Aire/AlAire/Content/Map/greyBox.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.07.15-00.58.36:064][120]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2021.07.15-00.58.36:097][120]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2021.07.15-00.58.36:131][120]LogSavePackage: Moving 'C:/GitHub/AlAirev1_2/Al-Aire/AlAire/Saved/greyBox36F7D53141651851076CE0887E5ED06D.tmp' to 'C:/GitHub/AlAirev1_2/Al-Aire/AlAire/Content/Map/greyBox.umap'
+[2021.07.15-00.58.36:143][120]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/greyBox_BuiltData" FILE="C:/GitHub/AlAirev1_2/Al-Aire/AlAire/Content/Map/greyBox_BuiltData.uasset" SILENT=true
+[2021.07.15-00.58.36:178][120]LogSavePackage: Moving 'C:/GitHub/AlAirev1_2/Al-Aire/AlAire/Saved/greyBox_BuiltData16717D8C4C841DD03D007F95832FD2BF.tmp' to 'C:/GitHub/AlAirev1_2/Al-Aire/AlAire/Content/Map/greyBox_BuiltData.uasset'
+[2021.07.15-00.58.36:192][120]AssetCheck: New page: Asset Save: multiple assets
+[2021.07.15-00.58.36:192][120]LogContentValidation: Display: Validating World /Game/Map/greyBox.greyBox
+[2021.07.15-00.58.36:192][120]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Map/greyBox_BuiltData.greyBox_BuiltData
+[2021.07.15-00.58.39:826][507]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.07.15-00.58.44:155][966]MapCheck: New page: Map Check
+[2021.07.15-00.58.44:175][966]Cmd: MAP REBUILD ALLVISIBLE
+[2021.07.15-00.58.44:176][966]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2021.07.15-00.58.44:238][966]LogWorld: UWorld::CleanupWorld for greyBox, bSessionEnded=true, bCleanupResources=false
+[2021.07.15-00.58.44:248][966]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2021.07.15-00.58.44:248][966]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2021.07.15-00.58.44:249][966]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2021.07.15-00.58.44:255][966]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2021.07.15-00.58.44:256][966]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.15-00.58.44:258][966]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.15-00.58.44:260][966]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.07.15-00.58.44:260][966]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.07.15-00.58.44:260][966]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.15-00.58.44:262][966]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.15-00.58.44:267][966]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.15-00.58.44:271][966]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 6
+[2021.07.15-00.58.44:271][966]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2021.07.15-00.58.44:271][966]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.15-00.58.45:333][966]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2021.07.15-00.58.45:333][966]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2021.07.15-00.58.45:333][966]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2021.07.15-00.58.45:333][966]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2021.07.15-00.58.45:333][966]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2021.07.15-00.58.45:333][966]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2021.07.15-00.58.45:333][966]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2021.07.15-00.58.45:333][966]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2021.07.15-00.58.45:333][966]TextureStreamingBuild: Display: Compiling optional shaders took 1.077 seconds.
+[2021.07.15-00.58.45:337][966]LogLevel: Display: Export Material TexCoord Scales took 0.004 seconds.
+[2021.07.15-00.58.45:338][966]TextureStreamingBuild: Display: Build Texture Streaming took 0.001 seconds.
+[2021.07.15-00.58.45:343][966]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.07.15-00.58.45:344][966]LightingResults: New page: Lighting Build - Jul 14, 2021, 4:58:45 PM
+[2021.07.15-00.58.45:349][966]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2021.07.15-00.58.45:351][966]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2021.07.15-00.58.45:351][966]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2021.07.15-00.58.45:352][966]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2021.07.15-00.58.45:352][966]LogSwarmInterface: [TryOpenConnection] Local Process ID is 3184
+[2021.07.15-00.58.49:944][966]LightingResults: Warning: No importance volume found and the scene is so large that the automatically synthesized volume will not yield good results.  Please add a tightly bounding lightmass importance volume to optimize your scene's quality and lighting build times.
+[2021.07.15-00.58.49:944][966]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2021.07.15-00.58.49:944][966]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2021.07.15-00.58.49:944][966]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2021.07.15-00.58.49:944][966]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2021.07.15-00.58.49:944][966]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2021.07.15-00.58.50:109][966]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2021.07.15-00.58.50:109][966]MapCheck: New page: greyBox - Jul 14, 2021, 4:58:50 PM
+[2021.07.15-00.58.50:109][966]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2021.07.15-00.58.50:119][966]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 9.564ms to complete.
+[2021.07.15-00.58.50:121][966]LogEditorBuildUtils: Build time 0:05
+[2021.07.15-00.58.51:050][988]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.07.15-00.58.55:727][292]Job is a success!
+[2021.07.15-00.58.55:965][293]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.066s
+[2021.07.15-00.58.55:965][293]LogVolumetricLightmapImport:      Indirection Texture 32x32x32 = 0.1Mb
+[2021.07.15-00.58.55:965][293]LogVolumetricLightmapImport:      BrickData (all levels) 0.8Mb
+[2021.07.15-00.58.55:965][293]LogVolumetricLightmapImport:      Bricks at depth
+[2021.07.15-00.58.55:965][293]LogVolumetricLightmapImport:          0: 4.2% covering 100.0% of volume
+[2021.07.15-00.58.55:965][293]LogVolumetricLightmapImport:          1: 25.9% covering 9.6% of volume
+[2021.07.15-00.58.55:965][293]LogVolumetricLightmapImport:          2: 69.8% covering 0.4% of volume
+[2021.07.15-00.58.55:965][293]LogVolumetricLightmapImport:      Bricks in each level
+[2021.07.15-00.58.55:965][293]LogVolumetricLightmapImport:          greyBox 			 189 bricks 	 100.0% (Persistent Level)
+[2021.07.15-00.58.56:152][293]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 256X256)
+[2021.07.15-00.58.56:152][293]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 256X256)
+[2021.07.15-00.58.56:152][293]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 256X256)
+[2021.07.15-00.58.56:152][293]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 256X256)
+[2021.07.15-00.58.56:152][293]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 256X256)
+[2021.07.15-00.58.56:152][293]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 256X256)
+[2021.07.15-00.58.56:153][293]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 256X256)
+[2021.07.15-00.58.56:153][293]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 256X256)
+[2021.07.15-00.58.56:153][293]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 128X128)
+[2021.07.15-00.58.56:153][293]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 128X128)
+[2021.07.15-00.58.56:153][293]LogTexture: Display: Building textures: HQ_Lightmap1_6 (AutoDXT, 256X256)
+[2021.07.15-00.58.56:153][293]LogTexture: Display: Building textures: LQ_Lightmap_1_6 (DXT1, 256X256)
+[2021.07.15-00.58.56:153][293]LogTexture: Display: Building textures: HQ_Lightmap0_7 (AutoDXT, 256X256)
+[2021.07.15-00.58.56:153][293]LogTexture: Display: Building textures: LQ_Lightmap_0_7 (DXT1, 256X256)
+[2021.07.15-00.58.56:153][293]LogTexture: Display: Building textures: HQ_Lightmap0_8 (AutoDXT, 256X256)
+[2021.07.15-00.58.56:153][293]LogTexture: Display: Building textures: LQ_Lightmap_0_8 (DXT1, 256X256)
+[2021.07.15-00.58.56:153][293]LogTexture: Display: Building textures: HQ_Lightmap0_9 (AutoDXT, 64X64)
+[2021.07.15-00.58.56:153][293]LogTexture: Display: Building textures: LQ_Lightmap_0_9 (DXT1, 64X64)
+[2021.07.15-00.58.56:213][293]LogTexture: Display: Building textures: ShadowMapTexture2D_15 (G8, 64X64)
+[2021.07.15-00.58.56:213][293]LogTexture: Display: Building textures: ShadowMapTexture2D_11 (G8, 128X128)
+[2021.07.15-00.58.56:213][293]LogTexture: Display: Building textures: ShadowMapTexture2D_12 (G8, 128X128)
+[2021.07.15-00.58.56:213][293]LogTexture: Display: Building textures: ShadowMapTexture2D_16 (G8, 256X64)
+[2021.07.15-00.58.56:213][293]LogTexture: Display: Building textures: ShadowMapTexture2D_19 (G8, 32X32)
+[2021.07.15-00.58.56:213][293]LogTexture: Display: Building textures: ShadowMapTexture2D_14 (G8, 256X64)
+[2021.07.15-00.58.56:213][293]LogTexture: Display: Building textures: ShadowMapTexture2D_17 (G8, 256X64)
+[2021.07.15-00.58.56:213][293]LogTexture: Display: Building textures: ShadowMapTexture2D_13 (G8, 128X128)
+[2021.07.15-00.58.56:213][293]LogTexture: Display: Building textures: ShadowMapTexture2D_18 (G8, 256X64)
+[2021.07.15-00.58.56:213][293]LogStaticLightingSystem: greyBox_BuiltData storing lightmap data for 18 meshes in 9 LightmapResourceClusters (2.0 Meshes per cluster).
+[2021.07.15-00.58.56:222][293]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2021.07.15-00.58.56:223][293]Lightmass on DESKTOP-648NKNC: 4.53 sec total, 264 ms importing, 84 ms setup, 1.08 sec photons, 3.06 sec processing, 0 ms extra exporting [18/18 mappings]. Threads: 21.4 sec total, 6.49 sec processing.
+[2021.07.15-00.58.56:299][293]LogStaticLightingSystem: Illumination: 10.8 sec (192 ms encoding lightmaps, 15 ms encoding shadowmaps)
+[2021.07.15-00.58.56:299][293]LogStaticLightingSystem: Lightmap texture memory:  0.9 MB (0.9 MB streaming, 0.0 MB non-streaming), 18 textures
+[2021.07.15-00.58.56:299][293]LogStaticLightingSystem: Shadowmap texture memory: 0.2 MB (0.2 MB streaming, 0.0 MB non-streaming), 9 textures
+[2021.07.15-00.58.56:953][293]DumpUnbuiltLightIteractions
+[2021.07.15-00.58.56:953][293]Lights with unbuilt interactions: 0
+[2021.07.15-00.58.56:953][293]
+[2021.07.15-00.58.56:953][293]Primitives with unbuilt interactions: 0
+[2021.07.15-00.58.57:048][293]LogTexture: Display: Building textures: NewReflectionComponentTextureEB9CBE3C423008B5E8E130901E171C89 (BGRA8, 128X128)
+[2021.07.15-00.58.57:088][294]Cmd: MAP CHECK NOTIFYRESULTS
+[2021.07.15-00.58.57:088][294]MapCheck: New page: greyBox - Jul 14, 2021, 4:58:57 PM
+[2021.07.15-00.58.57:088][294]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.403ms to complete.
+[2021.07.15-00.58.59:583][509]LogSlate: Window 'Message Log' being destroyed
+[2021.07.15-00.58.59:599][509]LogSlate: Window 'Message Log' being destroyed
+[2021.07.15-00.59.45:960][404]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.07.15-00.59.46:591][473]Cmd: DELETE
+[2021.07.15-00.59.46:592][473]Cmd: ACTOR DELETE
+[2021.07.15-00.59.46:594][473]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.07.15-00.59.46:599][473]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.07.15-00.59.46:600][473]LogEditorActor: Deleted 1 Actors (0.008 secs)
+[2021.07.15-00.59.51:407][ 23]MapCheck: New page: Map Check
+[2021.07.15-00.59.51:426][ 23]Cmd: MAP REBUILD ALLVISIBLE
+[2021.07.15-00.59.51:426][ 23]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2021.07.15-00.59.51:488][ 23]LogWorld: UWorld::CleanupWorld for greyBox, bSessionEnded=true, bCleanupResources=false
+[2021.07.15-00.59.51:498][ 23]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2021.07.15-00.59.51:499][ 23]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2021.07.15-00.59.51:499][ 23]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2021.07.15-00.59.51:505][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2021.07.15-00.59.51:505][ 23]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.15-00.59.51:507][ 23]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.15-00.59.51:509][ 23]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.07.15-00.59.51:509][ 23]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.07.15-00.59.51:509][ 23]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.15-00.59.51:510][ 23]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.15-00.59.51:515][ 23]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.15-00.59.51:517][ 23]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.15-00.59.52:618][ 23]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2021.07.15-00.59.52:618][ 23]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 9
+[2021.07.15-00.59.52:618][ 23]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2021.07.15-00.59.52:618][ 23]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2021.07.15-00.59.52:618][ 23]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2021.07.15-00.59.52:618][ 23]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2021.07.15-00.59.52:618][ 23]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2021.07.15-00.59.52:618][ 23]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2021.07.15-00.59.52:618][ 23]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2021.07.15-00.59.52:618][ 23]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2021.07.15-00.59.52:618][ 23]TextureStreamingBuild: Display: Compiling optional shaders took 1.113 seconds.
+[2021.07.15-00.59.52:620][ 23]LogLevel: Display: Export Material TexCoord Scales took 0.003 seconds.
+[2021.07.15-00.59.52:622][ 23]TextureStreamingBuild: Display: Build Texture Streaming took 0.001 seconds.
+[2021.07.15-00.59.52:626][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2021.07.15-00.59.52:627][ 23]LightingResults: New page: Lighting Build - Jul 14, 2021, 4:59:52 PM
+[2021.07.15-00.59.52:632][ 23]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2021.07.15-00.59.52:634][ 23]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2021.07.15-00.59.52:634][ 23]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2021.07.15-00.59.52:634][ 23]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2021.07.15-00.59.52:634][ 23]LogSwarmInterface: [TryOpenConnection] Local Process ID is 3184
+[2021.07.15-00.59.57:179][ 23]LightingResults: Warning: No importance volume found and the scene is so large that the automatically synthesized volume will not yield good results.  Please add a tightly bounding lightmass importance volume to optimize your scene's quality and lighting build times.
+[2021.07.15-00.59.57:179][ 23]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2021.07.15-00.59.57:179][ 23]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2021.07.15-00.59.57:179][ 23]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2021.07.15-00.59.57:179][ 23]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2021.07.15-00.59.57:179][ 23]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2021.07.15-00.59.57:278][ 23]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2021.07.15-00.59.57:278][ 23]MapCheck: New page: greyBox - Jul 14, 2021, 4:59:57 PM
+[2021.07.15-00.59.57:278][ 23]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.308ms to complete.
+[2021.07.15-00.59.57:280][ 23]LogEditorBuildUtils: Build time 0:05
+[2021.07.15-00.59.57:710][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2021.07.15-01.00.02:245][ 38]Job is a success!
+[2021.07.15-01.00.02:795][ 39]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.089s
+[2021.07.15-01.00.02:795][ 39]LogVolumetricLightmapImport:      Indirection Texture 32x32x32 = 0.1Mb
+[2021.07.15-01.00.02:795][ 39]LogVolumetricLightmapImport:      BrickData (all levels) 0.8Mb
+[2021.07.15-01.00.02:796][ 39]LogVolumetricLightmapImport:      Bricks at depth
+[2021.07.15-01.00.02:796][ 39]LogVolumetricLightmapImport:          0: 4.2% covering 100.0% of volume
+[2021.07.15-01.00.02:796][ 39]LogVolumetricLightmapImport:          1: 25.9% covering 9.6% of volume
+[2021.07.15-01.00.02:796][ 39]LogVolumetricLightmapImport:          2: 69.8% covering 0.4% of volume
+[2021.07.15-01.00.02:796][ 39]LogVolumetricLightmapImport:      Bricks in each level
+[2021.07.15-01.00.02:796][ 39]LogVolumetricLightmapImport:          greyBox 			 189 bricks 	 100.0% (Persistent Level)
+[2021.07.15-01.00.02:979][ 39]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 256X256)
+[2021.07.15-01.00.02:979][ 39]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 256X256)
+[2021.07.15-01.00.02:979][ 39]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 256X256)
+[2021.07.15-01.00.02:979][ 39]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 256X256)
+[2021.07.15-01.00.02:979][ 39]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 256X256)
+[2021.07.15-01.00.02:980][ 39]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 256X256)
+[2021.07.15-01.00.02:980][ 39]LogTexture: Display: Building textures: HQ_Lightmap1_4 (AutoDXT, 128X128)
+[2021.07.15-01.00.02:980][ 39]LogTexture: Display: Building textures: LQ_Lightmap_1_4 (DXT1, 128X128)
+[2021.07.15-01.00.02:980][ 39]LogTexture: Display: Building textures: HQ_Lightmap1_5 (AutoDXT, 256X256)
+[2021.07.15-01.00.02:980][ 39]LogTexture: Display: Building textures: LQ_Lightmap_1_5 (DXT1, 256X256)
+[2021.07.15-01.00.02:980][ 39]LogTexture: Display: Building textures: HQ_Lightmap0_6 (AutoDXT, 256X256)
+[2021.07.15-01.00.02:980][ 39]LogTexture: Display: Building textures: LQ_Lightmap_0_6 (DXT1, 256X256)
+[2021.07.15-01.00.02:980][ 39]LogTexture: Display: Building textures: HQ_Lightmap1_7 (AutoDXT, 128X128)
+[2021.07.15-01.00.02:980][ 39]LogTexture: Display: Building textures: LQ_Lightmap_1_7 (DXT1, 128X128)
+[2021.07.15-01.00.02:980][ 39]LogTexture: Display: Building textures: HQ_Lightmap1_8 (AutoDXT, 64X64)
+[2021.07.15-01.00.02:980][ 39]LogTexture: Display: Building textures: LQ_Lightmap_1_8 (DXT1, 64X64)
+[2021.07.15-01.00.03:093][ 39]LogTexture: Display: Building textures: ShadowMapTexture2D_23 (G8, 64X64)
+[2021.07.15-01.00.03:093][ 39]LogTexture: Display: Building textures: ShadowMapTexture2D_26 (G8, 64X64)
+[2021.07.15-01.00.03:093][ 39]LogTexture: Display: Building textures: ShadowMapTexture2D_27 (G8, 32X32)
+[2021.07.15-01.00.03:093][ 39]LogTexture: Display: Building textures: ShadowMapTexture2D_24 (G8, 256X64)
+[2021.07.15-01.00.03:093][ 39]LogTexture: Display: Building textures: ShadowMapTexture2D_22 (G8, 256X64)
+[2021.07.15-01.00.03:093][ 39]LogTexture: Display: Building textures: ShadowMapTexture2D_21 (G8, 128X128)
+[2021.07.15-01.00.03:093][ 39]LogTexture: Display: Building textures: ShadowMapTexture2D_20 (G8, 128X128)
+[2021.07.15-01.00.03:093][ 39]LogTexture: Display: Building textures: ShadowMapTexture2D_25 (G8, 512X64)
+[2021.07.15-01.00.03:093][ 39]Lightmass on DESKTOP-648NKNC: 4.77 sec total, 266 ms importing, 77 ms setup, 992 ms photons, 3.39 sec processing, 0 ms extra exporting [17/17 mappings]. Threads: 23.7 sec total, 5.97 sec processing.
+[2021.07.15-01.00.03:100][ 39]LogStaticLightingSystem: greyBox_BuiltData storing lightmap data for 17 meshes in 8 LightmapResourceClusters (2.1 Meshes per cluster).
+[2021.07.15-01.00.03:111][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2021.07.15-01.00.03:121][ 39]LogStaticLightingSystem: Illumination: 10.1 sec (195 ms encoding lightmaps, 30 ms encoding shadowmaps)
+[2021.07.15-01.00.03:121][ 39]LogStaticLightingSystem: Lightmap texture memory:  0.7 MB (0.7 MB streaming, 0.0 MB non-streaming), 16 textures
+[2021.07.15-01.00.03:121][ 39]LogStaticLightingSystem: Shadowmap texture memory: 0.1 MB (0.1 MB streaming, 0.0 MB non-streaming), 8 textures
+[2021.07.15-01.00.03:185][ 39]DumpUnbuiltLightIteractions
+[2021.07.15-01.00.03:185][ 39]Lights with unbuilt interactions: 0
+[2021.07.15-01.00.03:185][ 39]
+[2021.07.15-01.00.03:185][ 39]Primitives with unbuilt interactions: 0
+[2021.07.15-01.00.03:251][ 39]LogTexture: Display: Building textures: NewReflectionComponentTextureEB9CBE3C423008B5E8E130901E171C89 (BGRA8, 128X128)
+[2021.07.15-01.00.03:292][ 40]Cmd: MAP CHECK NOTIFYRESULTS
+[2021.07.15-01.00.03:292][ 40]MapCheck: New page: greyBox - Jul 14, 2021, 5:00:03 PM
+[2021.07.15-01.00.03:293][ 40]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.656ms to complete.
+[2021.07.15-01.03.33:603][801]LogSlate: Window 'Message Log' being destroyed
+[2021.07.15-01.03.33:618][801]LogSlate: Window 'Message Log' being destroyed
+[2021.07.15-01.03.34:169][863]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.07.15-01.06.50:149][971]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.07.15-01.08.38:367][297]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2021.07.15-01.08.38:370][297]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/greyBox" FILE="C:/GitHub/AlAirev1_2/Al-Aire/AlAire/Saved/Autosaves/Game/Map/greyBox_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2021.07.15-01.08.38:404][297]LogSavePackage: Moving 'C:/GitHub/AlAirev1_2/Al-Aire/AlAire/Saved/greyBox_Auto2E2913A4B467F8914D5C9C783869A360F.tmp' to 'C:/GitHub/AlAirev1_2/Al-Aire/AlAire/Saved/Autosaves/Game/Map/greyBox_Auto2.umap'
+[2021.07.15-01.08.38:427][297]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Map/greyBox' took 0.065
+[2021.07.15-01.08.38:427][297]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.065
+[2021.07.15-01.17.16:469][908]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.07.15-01.19.52:782][447]Cmd: TRANSACTION UNDO
+[2021.07.15-01.19.52:783][447]LogEditorTransaction: Undo Landscape Editing: Hydraulic Erosion
+[2021.07.15-01.19.52:794][447]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2021.07.15-01.19.57:543][869]Cmd: TRANSACTION UNDO
+[2021.07.15-01.19.57:543][869]LogEditorTransaction: Undo Landscape Editing: Hydraulic Erosion
+[2021.07.15-01.20.07:161][822]Cmd: TRANSACTION UNDO
+[2021.07.15-01.20.07:161][822]LogEditorTransaction: Undo Landscape Editing: Hydraulic Erosion
+[2021.07.15-01.20.07:170][822]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2021.07.15-01.20.08:024][855]Cmd: TRANSACTION UNDO
+[2021.07.15-01.20.08:024][855]LogEditorTransaction: Undo Landscape Editing: Hydraulic Erosion
+[2021.07.15-01.20.08:054][855]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2021.07.15-01.20.16:035][643]Cmd: TRANSACTION UNDO
+[2021.07.15-01.20.16:035][643]LogEditorTransaction: Undo Landscape Editing: Hydraulic Erosion
+[2021.07.15-01.20.21:438][166]Cmd: TRANSACTION UNDO
+[2021.07.15-01.20.21:439][166]LogEditorTransaction: Undo Landscape Editing: Hydraulic Erosion
+[2021.07.15-01.22.36:543][431]Cmd: TRANSACTION UNDO
+[2021.07.15-01.22.36:543][431]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2021.07.15-01.22.36:556][431]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2021.07.15-01.23.56:202][534]Cmd: TRANSACTION UNDO
+[2021.07.15-01.23.56:202][534]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2021.07.15-01.23.56:217][534]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2021.07.15-01.23.56:995][570]Cmd: TRANSACTION UNDO
+[2021.07.15-01.23.56:995][570]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2021.07.15-01.23.57:016][570]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2021.07.15-01.25.00:547][729]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/greyBox" FILE="C:/GitHub/AlAirev1_2/Al-Aire/AlAire/Content/Map/greyBox.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.07.15-01.25.00:553][729]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2021.07.15-01.25.00:560][729]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2021.07.15-01.25.00:607][729]LogSavePackage: Moving 'C:/GitHub/AlAirev1_2/Al-Aire/AlAire/Saved/greyBoxD9692D6C476C54DFB0C697922B8C0F7C.tmp' to 'C:/GitHub/AlAirev1_2/Al-Aire/AlAire/Content/Map/greyBox.umap'
+[2021.07.15-01.25.00:620][729]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/greyBox_BuiltData" FILE="C:/GitHub/AlAirev1_2/Al-Aire/AlAire/Content/Map/greyBox_BuiltData.uasset" SILENT=true
+[2021.07.15-01.25.00:675][729]LogSavePackage: Moving 'C:/GitHub/AlAirev1_2/Al-Aire/AlAire/Saved/greyBox_BuiltData108A82EE418A727324063BA378D46CD8.tmp' to 'C:/GitHub/AlAirev1_2/Al-Aire/AlAire/Content/Map/greyBox_BuiltData.uasset'
+[2021.07.15-01.25.00:701][729]AssetCheck: New page: Asset Save: multiple assets
+[2021.07.15-01.25.00:701][729]LogContentValidation: Display: Validating World /Game/Map/greyBox.greyBox
+[2021.07.15-01.25.00:701][729]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Map/greyBox_BuiltData.greyBox_BuiltData
+[2021.07.15-01.25.03:361][988]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.07.15-01.25.18:616][521]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/greyBox" FILE="C:/GitHub/AlAirev1_2/Al-Aire/AlAire/Content/Map/greyBox.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.07.15-01.25.18:622][521]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2021.07.15-01.25.18:659][521]LogSavePackage: Moving 'C:/GitHub/AlAirev1_2/Al-Aire/AlAire/Saved/greyBox42F8EF3A4EEF78E09369E99359F9FFF7.tmp' to 'C:/GitHub/AlAirev1_2/Al-Aire/AlAire/Content/Map/greyBox.umap'
+[2021.07.15-01.25.18:672][521]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/greyBox_BuiltData" FILE="C:/GitHub/AlAirev1_2/Al-Aire/AlAire/Content/Map/greyBox_BuiltData.uasset" SILENT=true
+[2021.07.15-01.25.18:724][521]LogSavePackage: Moving 'C:/GitHub/AlAirev1_2/Al-Aire/AlAire/Saved/greyBox_BuiltData9155BAA14CE18933B68DDBA5D8E26216.tmp' to 'C:/GitHub/AlAirev1_2/Al-Aire/AlAire/Content/Map/greyBox_BuiltData.uasset'
+[2021.07.15-01.25.18:740][521]AssetCheck: New page: Asset Save: multiple assets
+[2021.07.15-01.25.18:740][521]LogContentValidation: Display: Validating World /Game/Map/greyBox.greyBox
+[2021.07.15-01.25.18:740][521]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Map/greyBox_BuiltData.greyBox_BuiltData
+[2021.07.15-01.25.19:267][567]MapCheck: New page: Map Check
+[2021.07.15-01.25.19:288][567]Cmd: MAP REBUILD ALLVISIBLE
+[2021.07.15-01.25.19:288][567]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2021.07.15-01.25.19:352][567]LogWorld: UWorld::CleanupWorld for greyBox, bSessionEnded=true, bCleanupResources=false
+[2021.07.15-01.25.19:363][567]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2021.07.15-01.25.19:363][567]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2021.07.15-01.25.19:363][567]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2021.07.15-01.25.19:370][567]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2021.07.15-01.25.19:370][567]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.15-01.25.19:373][567]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.15-01.25.19:374][567]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.15-01.25.19:376][567]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.15-01.25.19:380][567]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.15-01.25.19:382][567]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.15-01.25.20:512][567]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 12
+[2021.07.15-01.25.20:512][567]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2021.07.15-01.25.20:512][567]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2021.07.15-01.25.20:513][567]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 9
+[2021.07.15-01.25.20:513][567]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2021.07.15-01.25.20:513][567]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2021.07.15-01.25.20:513][567]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2021.07.15-01.25.20:513][567]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2021.07.15-01.25.20:513][567]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2021.07.15-01.25.20:513][567]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2021.07.15-01.25.20:513][567]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2021.07.15-01.25.20:513][567]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2021.07.15-01.25.20:513][567]TextureStreamingBuild: Display: Compiling optional shaders took 1.142 seconds.
+[2021.07.15-01.25.20:517][567]LogLevel: Display: Export Material TexCoord Scales took 0.004 seconds.
+[2021.07.15-01.25.20:518][567]TextureStreamingBuild: Display: Build Texture Streaming took 0.001 seconds.
+[2021.07.15-01.25.20:522][567]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2021.07.15-01.25.20:524][567]LightingResults: New page: Lighting Build - Jul 14, 2021, 5:25:20 PM
+[2021.07.15-01.25.20:528][567]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2021.07.15-01.25.20:530][567]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2021.07.15-01.25.20:530][567]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2021.07.15-01.25.20:531][567]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2021.07.15-01.25.20:531][567]LogSwarmInterface: [TryOpenConnection] Local Process ID is 3184
+[2021.07.15-01.25.25:066][567]LightingResults: Warning: No importance volume found and the scene is so large that the automatically synthesized volume will not yield good results.  Please add a tightly bounding lightmass importance volume to optimize your scene's quality and lighting build times.
+[2021.07.15-01.25.25:066][567]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2021.07.15-01.25.25:066][567]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2021.07.15-01.25.25:066][567]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2021.07.15-01.25.25:066][567]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2021.07.15-01.25.25:066][567]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2021.07.15-01.25.25:205][567]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2021.07.15-01.25.25:205][567]MapCheck: New page: greyBox - Jul 14, 2021, 5:25:25 PM
+[2021.07.15-01.25.25:206][567]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2021.07.15-01.25.25:206][567]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 0.738ms to complete.
+[2021.07.15-01.25.25:219][567]LogEditorBuildUtils: Build time 0:05
+[2021.07.15-01.25.26:106][576]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2021.07.15-01.25.30:693][589]Job is a success!
+[2021.07.15-01.25.31:220][590]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.071s
+[2021.07.15-01.25.31:220][590]LogVolumetricLightmapImport:      Indirection Texture 32x32x32 = 0.1Mb
+[2021.07.15-01.25.31:220][590]LogVolumetricLightmapImport:      BrickData (all levels) 0.8Mb
+[2021.07.15-01.25.31:220][590]LogVolumetricLightmapImport:      Bricks at depth
+[2021.07.15-01.25.31:220][590]LogVolumetricLightmapImport:          0: 4.2% covering 100.0% of volume
+[2021.07.15-01.25.31:220][590]LogVolumetricLightmapImport:          1: 25.9% covering 9.6% of volume
+[2021.07.15-01.25.31:220][590]LogVolumetricLightmapImport:          2: 69.8% covering 0.4% of volume
+[2021.07.15-01.25.31:220][590]LogVolumetricLightmapImport:      Bricks in each level
+[2021.07.15-01.25.31:220][590]LogVolumetricLightmapImport:          greyBox 			 189 bricks 	 100.0% (Persistent Level)
+[2021.07.15-01.25.31:418][590]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 256X256)
+[2021.07.15-01.25.31:418][590]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 256X256)
+[2021.07.15-01.25.31:418][590]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 256X256)
+[2021.07.15-01.25.31:418][590]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 256X256)
+[2021.07.15-01.25.31:418][590]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 256X256)
+[2021.07.15-01.25.31:418][590]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 256X256)
+[2021.07.15-01.25.31:418][590]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 128X128)
+[2021.07.15-01.25.31:418][590]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 128X128)
+[2021.07.15-01.25.31:418][590]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 256X256)
+[2021.07.15-01.25.31:418][590]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 256X256)
+[2021.07.15-01.25.31:418][590]LogTexture: Display: Building textures: HQ_Lightmap1_6 (AutoDXT, 256X256)
+[2021.07.15-01.25.31:418][590]LogTexture: Display: Building textures: LQ_Lightmap_1_6 (DXT1, 256X256)
+[2021.07.15-01.25.31:418][590]LogTexture: Display: Building textures: HQ_Lightmap0_7 (AutoDXT, 128X128)
+[2021.07.15-01.25.31:418][590]LogTexture: Display: Building textures: LQ_Lightmap_0_7 (DXT1, 128X128)
+[2021.07.15-01.25.31:419][590]LogTexture: Display: Building textures: HQ_Lightmap0_8 (AutoDXT, 64X64)
+[2021.07.15-01.25.31:419][590]LogTexture: Display: Building textures: LQ_Lightmap_0_8 (DXT1, 64X64)
+[2021.07.15-01.25.31:477][590]LogTexture: Display: Building textures: ShadowMapTexture2D_31 (G8, 64X64)
+[2021.07.15-01.25.31:477][590]LogTexture: Display: Building textures: ShadowMapTexture2D_34 (G8, 64X64)
+[2021.07.15-01.25.31:477][590]LogTexture: Display: Building textures: ShadowMapTexture2D_35 (G8, 32X32)
+[2021.07.15-01.25.31:477][590]LogTexture: Display: Building textures: ShadowMapTexture2D_30 (G8, 256X64)
+[2021.07.15-01.25.31:477][590]LogTexture: Display: Building textures: ShadowMapTexture2D_32 (G8, 256X64)
+[2021.07.15-01.25.31:477][590]LogTexture: Display: Building textures: ShadowMapTexture2D_28 (G8, 128X128)
+[2021.07.15-01.25.31:477][590]LogTexture: Display: Building textures: ShadowMapTexture2D_29 (G8, 128X128)
+[2021.07.15-01.25.31:477][590]LogTexture: Display: Building textures: ShadowMapTexture2D_33 (G8, 512X64)
+[2021.07.15-01.25.31:477][590]LogStaticLightingSystem: greyBox_BuiltData storing lightmap data for 17 meshes in 8 LightmapResourceClusters (2.1 Meshes per cluster).
+[2021.07.15-01.25.31:486][590]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2021.07.15-01.25.31:492][590]Lightmass on DESKTOP-648NKNC: 4.68 sec total, 280 ms importing, 118 ms setup, 1.09 sec photons, 3.14 sec processing, 0 ms extra exporting [17/17 mappings]. Threads: 21.9 sec total, 5.33 sec processing.
+[2021.07.15-01.25.31:492][590]LogStaticLightingSystem: Illumination: 10.6 sec (200 ms encoding lightmaps, 28 ms encoding shadowmaps)
+[2021.07.15-01.25.31:492][590]LogStaticLightingSystem: Lightmap texture memory:  0.7 MB (0.7 MB streaming, 0.0 MB non-streaming), 16 textures
+[2021.07.15-01.25.31:492][590]LogStaticLightingSystem: Shadowmap texture memory: 0.1 MB (0.1 MB streaming, 0.0 MB non-streaming), 8 textures
+[2021.07.15-01.25.32:075][590]DumpUnbuiltLightIteractions
+[2021.07.15-01.25.32:075][590]Lights with unbuilt interactions: 0
+[2021.07.15-01.25.32:075][590]
+[2021.07.15-01.25.32:075][590]Primitives with unbuilt interactions: 0
+[2021.07.15-01.25.32:152][590]LogTexture: Display: Building textures: NewReflectionComponentTextureEB9CBE3C423008B5E8E130901E171C89 (BGRA8, 128X128)
+[2021.07.15-01.25.32:189][591]Cmd: MAP CHECK NOTIFYRESULTS
+[2021.07.15-01.25.32:190][591]MapCheck: New page: greyBox - Jul 14, 2021, 5:25:32 PM
+[2021.07.15-01.25.32:190][591]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.561ms to complete.
+[2021.07.15-01.26.22:682][172]LogSlate: Window 'Message Log' being destroyed
+[2021.07.15-01.26.22:698][172]LogSlate: Window 'Message Log' being destroyed
+[2021.07.15-01.26.45:039][871]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Material/M_DefaultLandscape.M_DefaultLandscape
+[2021.07.15-01.26.45:084][871]LogMaterial: Display: Missing cached shader map for material M_DefaultLandscape, compiling. 
+[2021.07.15-01.26.46:046][871]LogMaterial: Display: Missing cached shader map for material M_DefaultLandscape, compiling. 
+[2021.07.15-01.26.46:065][871]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2021.07.15-01.26.46:071][871]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 28
+[2021.07.15-01.26.46:071][871]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 27
+[2021.07.15-01.26.46:071][871]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 26
+[2021.07.15-01.26.46:071][871]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 25
+[2021.07.15-01.26.46:071][871]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2021.07.15-01.26.46:076][871]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_2, compiling. 
+[2021.07.15-01.26.46:079][871]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_3, compiling. 
+[2021.07.15-01.26.46:141][871]LogSlate: Took 0.007557 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.07.15-01.26.46:649][889]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 40
+[2021.07.15-01.26.46:695][892]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 39
+[2021.07.15-01.26.46:959][907]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 38
+[2021.07.15-01.26.47:085][915]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 37
+[2021.07.15-01.26.47:085][915]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 36
+[2021.07.15-01.26.47:100][916]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 35
+[2021.07.15-01.26.47:348][932]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 34
+[2021.07.15-01.26.47:364][933]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 33
+[2021.07.15-01.26.47:379][934]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 32
+[2021.07.15-01.26.47:857][963]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 31
+[2021.07.15-01.26.47:886][965]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 30
+[2021.07.15-01.26.47:992][972]LogSlate: Window 'M_DefaultLandscape' being destroyed
+[2021.07.15-01.26.47:999][972]LogSlate: Window 'M_DefaultLandscape' being destroyed
+[2021.07.15-01.26.48:031][972]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2021.07.15-01.26.48:031][972]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.15-01.26.48:119][978]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 13
+[2021.07.15-01.26.48:240][986]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 12
+[2021.07.15-01.26.48:302][992]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2021.07.15-01.26.48:596][ 19]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 10
+[2021.07.15-01.26.48:650][ 22]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2021.07.15-01.26.48:745][ 28]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.07.15-01.26.48:821][ 33]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2021.07.15-01.26.48:996][ 42]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2021.07.15-01.26.49:028][ 44]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2021.07.15-01.26.49:263][ 55]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2021.07.15-01.26.49:534][ 70]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2021.07.15-01.26.49:549][ 71]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2021.07.15-01.26.49:567][ 72]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2021.07.15-01.27.39:475][747]LogMaterial: Display: Missing cached shader map for material M_LowpolyLandscape, compiling. 
+[2021.07.15-01.27.39:522][747]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 33
+[2021.07.15-01.27.39:522][747]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 24
+[2021.07.15-01.27.39:522][747]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 15
+[2021.07.15-01.27.39:522][747]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2021.07.15-01.27.39:526][747]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Material/M_LowpolyLandscape.M_LowpolyLandscape
+[2021.07.15-01.27.39:529][747]LogMaterial: Display: Missing cached shader map for material M_LowpolyLandscape, compiling. 
+[2021.07.15-01.27.39:673][747]LogMaterial: Display: Missing cached shader map for material M_LowpolyLandscape, compiling. 
+[2021.07.15-01.27.39:694][747]LogMaterial: Display: Missing cached shader map for material M_LowpolyLandscape, compiling. 
+[2021.07.15-01.27.39:718][747]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2021.07.15-01.27.39:723][747]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2021.07.15-01.27.39:728][747]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_2, compiling. 
+[2021.07.15-01.27.39:732][747]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_3, compiling. 
+[2021.07.15-01.27.43:633][917]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 42
+[2021.07.15-01.27.44:012][940]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 41
+[2021.07.15-01.27.44:116][946]LogSlate: Window 'M_LowpolyLandscape' being destroyed
+[2021.07.15-01.27.44:123][946]LogSlate: Window 'M_LowpolyLandscape' being destroyed
+[2021.07.15-01.27.44:140][946]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2021.07.15-01.27.44:140][946]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.15-01.27.44:448][972]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 24
+[2021.07.15-01.27.44:627][991]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 23
+[2021.07.15-01.27.44:627][991]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 22
+[2021.07.15-01.27.44:627][991]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 21
+[2021.07.15-01.27.44:753][  2]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.07.15-01.27.44:857][  7]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 20
+[2021.07.15-01.27.44:857][  7]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 19
+[2021.07.15-01.27.45:009][ 23]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 18
+[2021.07.15-01.27.45:039][ 26]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 17
+[2021.07.15-01.27.45:105][ 33]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 16
+[2021.07.15-01.27.45:279][ 50]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 15
+[2021.07.15-01.27.45:509][ 72]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 14
+[2021.07.15-01.27.45:562][ 76]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 13
+[2021.07.15-01.27.45:581][ 78]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 12
+[2021.07.15-01.27.45:932][113]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2021.07.15-01.27.45:953][115]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.07.15-01.27.46:043][119]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2021.07.15-01.27.46:223][137]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2021.07.15-01.27.46:285][143]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2021.07.15-01.27.46:456][159]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2021.07.15-01.27.46:456][159]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2021.07.15-01.27.46:657][180]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2021.07.15-01.27.46:842][199]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2021.07.15-01.27.46:930][208]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2021.07.15-01.27.47:053][220]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2021.07.15-01.27.47:121][225]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2021.07.15-01.27.49:718][395]LogMaterial: Display: Missing cached shader map for material M_LowpolyLandscape, compiling. 
+[2021.07.15-01.27.49:756][395]LogMaterial: Display: Material /Game/Material/M_LowpolyLandscape.M_LowpolyLandscape needed to have new flag set bUsedWithStaticLighting !
+[2021.07.15-01.27.49:758][395]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 70
+[2021.07.15-01.27.49:758][395]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 60
+[2021.07.15-01.27.49:758][395]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 50
+[2021.07.15-01.27.49:758][395]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 40
+[2021.07.15-01.27.49:758][395]LogMaterial: Display: Missing cached shader map for material M_LowpolyLandscape, compiling. 
+[2021.07.15-01.27.49:811][395]LogMaterial: Display: Missing cached shader map for material M_LowpolyLandscape, compiling. 
+[2021.07.15-01.27.52:863][572]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 172
+[2021.07.15-01.27.53:098][584]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 162
+[2021.07.15-01.27.53:796][620]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 152
+[2021.07.15-01.27.53:816][621]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 142
+[2021.07.15-01.27.56:547][779]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 132
+[2021.07.15-01.27.57:283][816]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 122
+[2021.07.15-01.27.58:096][869]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 112
+[2021.07.15-01.27.58:656][912]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 102
+[2021.07.15-01.28.01:453][ 84]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 92
+[2021.07.15-01.28.02:406][158]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 82
+[2021.07.15-01.28.03:034][206]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 72
+[2021.07.15-01.28.03:909][266]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.07.15-01.28.03:920][266]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 62
+[2021.07.15-01.28.04:870][337]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 52
+[2021.07.15-01.28.07:151][517]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 42
+[2021.07.15-01.28.07:404][537]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 32
+[2021.07.15-01.28.08:927][656]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 23
+[2021.07.15-01.28.09:671][714]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 17
+[2021.07.15-01.28.10:891][799]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 12
+[2021.07.15-01.28.10:893][799]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2021.07.15-01.28.10:966][805]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2021.07.15-01.28.11:365][837]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2021.07.15-01.28.11:529][848]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2021.07.15-01.28.11:620][855]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2021.07.15-01.28.29:047][338]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.07.15-01.28.37:971][253]LogTemp: Warning: Select a mesh. Switch tools to paint vertex colors, blend between textures, or paint directly onto a texture file.
+[2021.07.15-01.29.00:323][757]LogMaterial: Display: Missing cached shader map for material M_LowpolyLandscape, compiling. 
+[2021.07.15-01.29.00:333][757]LogMaterial: Display: Missing cached shader map for material M_LowpolyLandscape, compiling. 
+[2021.07.15-01.29.00:342][757]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 19
+[2021.07.15-01.29.00:342][757]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 14
+[2021.07.15-01.29.00:342][757]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2021.07.15-01.29.00:342][757]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2021.07.15-01.29.00:344][757]LogMaterial: Display: Missing cached shader map for material M_LowpolyLandscape, compiling. 
+[2021.07.15-01.29.00:357][757]LogMaterial: Display: Missing cached shader map for material M_LowpolyLandscape, compiling. 
+[2021.07.15-01.29.02:103][918]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 57
+[2021.07.15-01.29.02:434][948]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 47
+[2021.07.15-01.29.03:013][  6]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 37
+[2021.07.15-01.29.03:472][ 50]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 27
+[2021.07.15-01.29.06:685][353]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 20
+[2021.07.15-01.29.07:273][405]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 14
+[2021.07.15-01.29.07:295][407]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2021.07.15-01.29.07:425][418]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2021.07.15-01.29.07:982][472]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2021.07.15-01.29.08:520][521]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2021.07.15-01.29.08:640][530]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.07.15-01.29.08:913][552]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2021.07.15-01.29.20:495][965]LogSlate: Window 'Message' being destroyed
+[2021.07.15-01.29.20:500][965]Message dialog closed, result: Cancel, title: Message, text: This layer has no layer info assigned yet. You must create or assign a layer info before you can paint this layer.
+[2021.07.15-01.29.35:436][210]LogSlate: Window 'Create New Landscape Layer Info Object' being destroyed
+[2021.07.15-01.29.35:466][210]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 64X64)
+[2021.07.15-01.29.35:480][210]LogMaterial: Display: Missing cached shader map for material M_LowpolyLandscape, compiling. 
+[2021.07.15-01.29.35:529][210]LogTexture: Display: Building textures: Texture2D_2 (BGRA8, 64X64)
+[2021.07.15-01.29.35:541][210]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 96
+[2021.07.15-01.29.35:541][210]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 86
+[2021.07.15-01.29.35:541][210]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 76
+[2021.07.15-01.29.35:541][210]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 66
+[2021.07.15-01.29.35:549][210]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 64X64)
+[2021.07.15-01.29.39:276][424]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 56
+[2021.07.15-01.29.39:374][424]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 46
+[2021.07.15-01.29.39:464][424]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 36
+[2021.07.15-01.29.39:552][424]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 26
+[2021.07.15-01.29.40:719][424]LogSlate: Window 'Create New Landscape Layer Info Object' being destroyed
+[2021.07.15-01.29.41:779][476]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 19
+[2021.07.15-01.29.42:125][490]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 14
+[2021.07.15-01.29.43:264][558]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 10
+[2021.07.15-01.29.43:530][577]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2021.07.15-01.29.43:629][584]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2021.07.15-01.29.43:714][590]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2021.07.15-01.29.43:963][597]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2021.07.15-01.29.44:142][597]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2021.07.15-01.29.45:179][597]LogSlate: Window 'Create New Landscape Layer Info Object' being destroyed
+[2021.07.15-01.29.48:638][757]LogSlate: Window 'Create New Landscape Layer Info Object' being destroyed
+[2021.07.15-01.30.12:600][704]LogTexture: Display: Building textures: Texture2D_4 (BGRA8, 64X64)
+[2021.07.15-01.30.12:604][704]LogMaterial: Display: Missing cached shader map for material M_LowpolyLandscape, compiling. 
+[2021.07.15-01.30.12:657][705]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 96
+[2021.07.15-01.30.12:657][705]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 86
+[2021.07.15-01.30.12:657][705]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 76
+[2021.07.15-01.30.12:657][705]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 66
+[2021.07.15-01.30.13:211][757]LogTexture: Display: Building textures: Texture2D_5 (BGRA8, 64X64)
+[2021.07.15-01.30.16:784][967]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 56
+[2021.07.15-01.30.16:796][968]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 46
+[2021.07.15-01.30.16:878][974]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 36
+[2021.07.15-01.30.16:878][974]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 26
+[2021.07.15-01.30.20:729][258]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 16
+[2021.07.15-01.30.21:389][312]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 11
+[2021.07.15-01.30.21:827][349]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2021.07.15-01.30.22:274][387]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2021.07.15-01.30.22:311][390]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2021.07.15-01.30.22:619][416]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2021.07.15-01.30.22:711][424]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2021.07.15-01.30.36:216][798]LogMaterial: Display: Missing cached shader map for material M_LowpolyLandscape, compiling. 
+[2021.07.15-01.30.36:263][798]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 96
+[2021.07.15-01.30.36:263][798]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 86
+[2021.07.15-01.30.36:263][798]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 76
+[2021.07.15-01.30.36:263][798]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 66
+[2021.07.15-01.30.36:263][798]LogTexture: Display: Building textures: Texture2D_6 (BGRA8, 64X64)
+[2021.07.15-01.30.36:801][837]LogMaterial: Display: Missing cached shader map for material M_LowpolyLandscape, compiling. 
+[2021.07.15-01.30.36:936][841]LogTexture: Display: Building textures: Texture2D_7 (BGRA8, 64X64)
+[2021.07.15-01.30.39:882][ 34]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 152
+[2021.07.15-01.30.39:895][ 35]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 142
+[2021.07.15-01.30.40:064][ 48]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 132
+[2021.07.15-01.30.40:064][ 48]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 122
+[2021.07.15-01.30.43:053][274]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 112
+[2021.07.15-01.30.43:809][331]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 102
+[2021.07.15-01.30.44:262][366]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 92
+[2021.07.15-01.30.44:564][389]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 82
+[2021.07.15-01.30.47:250][592]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 72
+[2021.07.15-01.30.47:383][602]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 62
+[2021.07.15-01.30.47:452][604]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 52
+[2021.07.15-01.30.48:821][704]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 42
+[2021.07.15-01.30.51:023][869]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 32
+[2021.07.15-01.30.51:542][909]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 23
+[2021.07.15-01.30.51:676][919]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 17
+[2021.07.15-01.30.52:470][979]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 12
+[2021.07.15-01.30.53:485][ 54]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2021.07.15-01.30.53:628][ 65]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2021.07.15-01.30.54:019][ 94]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2021.07.15-01.30.54:260][112]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2021.07.15-01.30.54:277][113]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.07.15-01.31.02:284][935]LogMaterial: Display: Missing cached shader map for material M_LowpolyLandscape, compiling. 
+[2021.07.15-01.31.02:325][935]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 96
+[2021.07.15-01.31.02:325][935]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 86
+[2021.07.15-01.31.02:325][935]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 76
+[2021.07.15-01.31.02:325][935]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 66
+[2021.07.15-01.31.06:027][169]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 56
+[2021.07.15-01.31.06:146][178]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 46
+[2021.07.15-01.31.06:254][186]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 36
+[2021.07.15-01.31.06:346][193]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 26
+[2021.07.15-01.31.08:875][383]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 19
+[2021.07.15-01.31.09:338][417]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 14
+[2021.07.15-01.31.10:476][502]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 10
+[2021.07.15-01.31.10:752][523]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2021.07.15-01.31.10:885][534]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2021.07.15-01.31.10:885][534]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2021.07.15-01.31.11:319][571]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2021.07.15-01.31.20:601][497]Cmd: TRANSACTION UNDO
+[2021.07.15-01.31.20:601][497]LogEditorTransaction: Undo Landscape Editing: Paint
+[2021.07.15-01.31.20:606][497]LogTexture: Display: Building textures: Texture2D_2 (BGRA8, 64X64)
+[2021.07.15-01.31.20:610][497]LogTexture: Display: Building textures: Texture2D_6 (BGRA8, 64X64)
+[2021.07.15-01.31.29:048][322]LogMaterial: Display: Missing cached shader map for material M_LowpolyLandscape, compiling. 
+[2021.07.15-01.31.29:097][323]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 96
+[2021.07.15-01.31.29:097][323]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 86
+[2021.07.15-01.31.29:097][323]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 76
+[2021.07.15-01.31.29:097][323]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 66
+[2021.07.15-01.31.29:102][323]LogTexture: Display: Building textures: Texture2D_8 (BGRA8, 64X64)
+[2021.07.15-01.31.32:677][599]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 56
+[2021.07.15-01.31.32:700][600]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 46
+[2021.07.15-01.31.32:841][606]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 36
+[2021.07.15-01.31.32:873][608]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 26
+[2021.07.15-01.31.35:447][791]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 19
+[2021.07.15-01.31.35:939][829]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 14
+[2021.07.15-01.31.37:028][915]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 10
+[2021.07.15-01.31.37:361][941]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2021.07.15-01.31.37:411][945]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2021.07.15-01.31.37:425][946]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2021.07.15-01.31.37:704][968]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2021.07.15-01.31.37:933][986]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2021.07.15-01.32.38:100][236]Cmd: TRANSACTION UNDO
+[2021.07.15-01.32.38:100][236]LogEditorTransaction: Undo Landscape Editing: Paint
+[2021.07.15-01.32.38:102][236]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 64X64)
+[2021.07.15-01.33.34:665][496]Cmd: TRANSACTION UNDO
+[2021.07.15-01.33.34:665][496]LogEditorTransaction: Undo Landscape Editing: Paint
+[2021.07.15-01.33.34:671][496]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 64X64)
+[2021.07.15-01.33.43:912][382]LogMaterial: Display: Missing cached shader map for material M_LowpolyLandscape, compiling. 
+[2021.07.15-01.33.43:963][383]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 96
+[2021.07.15-01.33.43:963][383]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 86
+[2021.07.15-01.33.43:963][383]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 76
+[2021.07.15-01.33.43:963][383]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 66
+[2021.07.15-01.33.47:728][680]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 56
+[2021.07.15-01.33.47:827][689]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 46
+[2021.07.15-01.33.47:886][694]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 36
+[2021.07.15-01.33.47:938][699]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 26
+[2021.07.15-01.33.50:368][897]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 19
+[2021.07.15-01.33.50:974][941]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 14
+[2021.07.15-01.33.52:052][ 22]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 10
+[2021.07.15-01.33.52:287][ 40]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2021.07.15-01.33.52:396][ 48]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2021.07.15-01.33.52:505][ 56]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2021.07.15-01.33.52:774][ 76]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.07.15-01.33.52:972][ 90]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2021.07.15-01.34.17:643][833]Cmd: TRANSACTION UNDO
+[2021.07.15-01.34.17:643][833]LogEditorTransaction: Undo Landscape Editing: Paint
+[2021.07.15-01.34.17:647][833]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 64X64)
+[2021.07.15-01.34.25:351][577]Cmd: TRANSACTION UNDO
+[2021.07.15-01.34.25:351][577]LogEditorTransaction: Undo Landscape Editing: Paint
+[2021.07.15-01.34.25:354][577]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 64X64)
+[2021.07.15-01.35.38:806][575]MapCheck: New page: Map Check
+[2021.07.15-01.35.38:828][575]Cmd: MAP REBUILD ALLVISIBLE
+[2021.07.15-01.35.38:830][575]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2021.07.15-01.35.38:895][575]LogWorld: UWorld::CleanupWorld for greyBox, bSessionEnded=true, bCleanupResources=false
+[2021.07.15-01.35.38:906][575]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2021.07.15-01.35.38:906][575]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2021.07.15-01.35.38:906][575]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2021.07.15-01.35.38:914][575]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2021.07.15-01.35.38:916][575]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.15-01.35.38:919][575]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.15-01.35.38:920][575]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.15-01.35.38:922][575]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2021.07.15-01.35.38:922][575]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2021.07.15-01.35.38:922][575]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2021.07.15-01.35.38:922][575]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2021.07.15-01.35.38:922][575]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.15-01.35.38:927][575]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.15-01.35.38:929][575]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.15-01.35.39:972][575]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2021.07.15-01.35.39:972][575]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2021.07.15-01.35.39:972][575]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2021.07.15-01.35.39:972][575]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2021.07.15-01.35.39:972][575]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2021.07.15-01.35.39:972][575]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2021.07.15-01.35.39:972][575]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2021.07.15-01.35.39:972][575]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2021.07.15-01.35.39:972][575]TextureStreamingBuild: Display: Compiling optional shaders took 1.056 seconds.
+[2021.07.15-01.35.39:975][575]LogLevel: Display: Export Material TexCoord Scales took 0.003 seconds.
+[2021.07.15-01.35.39:976][575]TextureStreamingBuild: Display: Build Texture Streaming took 0.001 seconds.
+[2021.07.15-01.35.39:981][575]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.07.15-01.35.39:982][575]LightingResults: New page: Lighting Build - Jul 14, 2021, 5:35:39 PM
+[2021.07.15-01.35.39:987][575]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2021.07.15-01.35.39:989][575]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2021.07.15-01.35.39:989][575]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2021.07.15-01.35.39:990][575]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2021.07.15-01.35.39:990][575]LogSwarmInterface: [TryOpenConnection] Local Process ID is 3184
+[2021.07.15-01.35.44:549][575]LightingResults: Warning: No importance volume found and the scene is so large that the automatically synthesized volume will not yield good results.  Please add a tightly bounding lightmass importance volume to optimize your scene's quality and lighting build times.
+[2021.07.15-01.35.44:549][575]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2021.07.15-01.35.44:549][575]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2021.07.15-01.35.44:549][575]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2021.07.15-01.35.44:549][575]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2021.07.15-01.35.44:549][575]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2021.07.15-01.35.44:684][575]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2021.07.15-01.35.44:685][575]MapCheck: New page: greyBox - Jul 14, 2021, 5:35:44 PM
+[2021.07.15-01.35.44:685][575]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2021.07.15-01.35.44:685][575]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 0.741ms to complete.
+[2021.07.15-01.35.44:687][575]LogEditorBuildUtils: Build time 0:05
+[2021.07.15-01.35.44:763][575]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_144, compiling. 
+[2021.07.15-01.35.44:801][575]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_144, compiling. 
+[2021.07.15-01.35.44:880][575]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2021.07.15-01.35.44:880][575]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2021.07.15-01.35.44:893][576]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_115, compiling. 
+[2021.07.15-01.35.44:898][576]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2021.07.15-01.35.44:898][576]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2021.07.15-01.35.44:898][576]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_115, compiling. 
+[2021.07.15-01.35.44:982][577]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_130, compiling. 
+[2021.07.15-01.35.44:987][577]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_130, compiling. 
+[2021.07.15-01.35.44:991][577]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_134, compiling. 
+[2021.07.15-01.35.44:996][577]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_134, compiling. 
+[2021.07.15-01.35.45:083][578]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_128, compiling. 
+[2021.07.15-01.35.45:088][578]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_128, compiling. 
+[2021.07.15-01.35.47:085][580]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 14
+[2021.07.15-01.35.47:085][580]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2021.07.15-01.35.47:085][580]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2021.07.15-01.35.47:085][580]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2021.07.15-01.35.47:085][580]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2021.07.15-01.35.47:085][580]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.07.15-01.35.47:085][580]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2021.07.15-01.35.47:532][600]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2021.07.15-01.35.52:298][936]Job is a success!
+[2021.07.15-01.35.52:518][937]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.067s
+[2021.07.15-01.35.52:518][937]LogVolumetricLightmapImport:      Indirection Texture 32x32x32 = 0.1Mb
+[2021.07.15-01.35.52:518][937]LogVolumetricLightmapImport:      BrickData (all levels) 0.8Mb
+[2021.07.15-01.35.52:518][937]LogVolumetricLightmapImport:      Bricks at depth
+[2021.07.15-01.35.52:518][937]LogVolumetricLightmapImport:          0: 4.2% covering 100.0% of volume
+[2021.07.15-01.35.52:518][937]LogVolumetricLightmapImport:          1: 25.9% covering 9.6% of volume
+[2021.07.15-01.35.52:518][937]LogVolumetricLightmapImport:          2: 69.8% covering 0.4% of volume
+[2021.07.15-01.35.52:518][937]LogVolumetricLightmapImport:      Bricks in each level
+[2021.07.15-01.35.52:518][937]LogVolumetricLightmapImport:          greyBox 			 189 bricks 	 100.0% (Persistent Level)
+[2021.07.15-01.35.52:686][937]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 256X256)
+[2021.07.15-01.35.52:686][937]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 256X256)
+[2021.07.15-01.35.52:686][937]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 256X256)
+[2021.07.15-01.35.52:686][937]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 256X256)
+[2021.07.15-01.35.52:686][937]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 256X256)
+[2021.07.15-01.35.52:686][937]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 256X256)
+[2021.07.15-01.35.52:686][937]LogTexture: Display: Building textures: HQ_Lightmap1_4 (AutoDXT, 128X128)
+[2021.07.15-01.35.52:686][937]LogTexture: Display: Building textures: HQ_Lightmap1_5 (AutoDXT, 256X256)
+[2021.07.15-01.35.52:686][937]LogTexture: Display: Building textures: LQ_Lightmap_1_5 (DXT1, 256X256)
+[2021.07.15-01.35.52:686][937]LogTexture: Display: Building textures: LQ_Lightmap_1_4 (DXT1, 128X128)
+[2021.07.15-01.35.52:686][937]LogTexture: Display: Building textures: HQ_Lightmap0_6 (AutoDXT, 256X256)
+[2021.07.15-01.35.52:686][937]LogTexture: Display: Building textures: LQ_Lightmap_0_6 (DXT1, 256X256)
+[2021.07.15-01.35.52:686][937]LogTexture: Display: Building textures: HQ_Lightmap1_7 (AutoDXT, 128X128)
+[2021.07.15-01.35.52:686][937]LogTexture: Display: Building textures: LQ_Lightmap_1_7 (DXT1, 128X128)
+[2021.07.15-01.35.52:686][937]LogTexture: Display: Building textures: HQ_Lightmap1_8 (AutoDXT, 64X64)
+[2021.07.15-01.35.52:686][937]LogTexture: Display: Building textures: LQ_Lightmap_1_8 (DXT1, 64X64)
+[2021.07.15-01.35.52:734][937]LogTexture: Display: Building textures: ShadowMapTexture2D_39 (G8, 64X64)
+[2021.07.15-01.35.52:734][937]LogTexture: Display: Building textures: ShadowMapTexture2D_42 (G8, 64X64)
+[2021.07.15-01.35.52:734][937]LogTexture: Display: Building textures: ShadowMapTexture2D_43 (G8, 32X32)
+[2021.07.15-01.35.52:734][937]LogTexture: Display: Building textures: ShadowMapTexture2D_38 (G8, 256X64)
+[2021.07.15-01.35.52:734][937]LogTexture: Display: Building textures: ShadowMapTexture2D_40 (G8, 256X64)
+[2021.07.15-01.35.52:734][937]LogTexture: Display: Building textures: ShadowMapTexture2D_36 (G8, 128X128)
+[2021.07.15-01.35.52:734][937]LogTexture: Display: Building textures: ShadowMapTexture2D_37 (G8, 128X128)
+[2021.07.15-01.35.52:734][937]LogTexture: Display: Building textures: ShadowMapTexture2D_41 (G8, 512X64)
+[2021.07.15-01.35.52:735][937]LogStaticLightingSystem: greyBox_BuiltData storing lightmap data for 17 meshes in 8 LightmapResourceClusters (2.1 Meshes per cluster).
+[2021.07.15-01.35.52:747][937]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2021.07.15-01.35.52:772][937]Lightmass on DESKTOP-648NKNC: 4.59 sec total, 314 ms importing, 86 ms setup, 1.18 sec photons, 2.97 sec processing, 0 ms extra exporting [17/17 mappings]. Threads: 20.7 sec total, 6.35 sec processing.
+[2021.07.15-01.35.52:812][937]LogStaticLightingSystem: Illumination: 12.7 sec (171 ms encoding lightmaps, 12 ms encoding shadowmaps)
+[2021.07.15-01.35.52:812][937]LogStaticLightingSystem: Lightmap texture memory:  0.7 MB (0.7 MB streaming, 0.0 MB non-streaming), 16 textures
+[2021.07.15-01.35.52:812][937]LogStaticLightingSystem: Shadowmap texture memory: 0.1 MB (0.1 MB streaming, 0.0 MB non-streaming), 8 textures
+[2021.07.15-01.35.53:559][937]DumpUnbuiltLightIteractions
+[2021.07.15-01.35.53:559][937]Lights with unbuilt interactions: 0
+[2021.07.15-01.35.53:559][937]
+[2021.07.15-01.35.53:559][937]Primitives with unbuilt interactions: 0
+[2021.07.15-01.35.53:704][937]LogTexture: Display: Building textures: NewReflectionComponentTextureEB9CBE3C423008B5E8E130901E171C89 (BGRA8, 128X128)
+[2021.07.15-01.35.53:740][938]Cmd: MAP CHECK NOTIFYRESULTS
+[2021.07.15-01.35.53:740][938]MapCheck: New page: greyBox - Jul 14, 2021, 5:35:53 PM
+[2021.07.15-01.35.53:740][938]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.35ms to complete.
+[2021.07.15-01.35.55:357][ 92]LogSlate: Window 'Message Log' being destroyed
+[2021.07.15-01.35.55:370][ 92]LogSlate: Window 'Message Log' being destroyed
+[2021.07.15-01.36.03:446][933]Cmd: TRANSACTION UNDO
+[2021.07.15-01.36.03:446][933]LogEditorTransaction: Undo Landscape Editing: Paint
+[2021.07.15-01.36.03:449][933]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 64X64)
+[2021.07.15-01.36.07:510][329]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/greyBox" FILE="C:/GitHub/AlAirev1_2/Al-Aire/AlAire/Content/Map/greyBox.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.07.15-01.36.07:516][329]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2021.07.15-01.36.07:521][329]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 64X64)
+[2021.07.15-01.36.07:522][329]LogTexture: Display: Building textures: Texture2D_8 (BGRA8, 64X64)
+[2021.07.15-01.36.07:523][329]LogTexture: Display: Building textures: Texture2D_7 (BGRA8, 64X64)
+[2021.07.15-01.36.07:523][329]LogTexture: Display: Building textures: Texture2D_6 (BGRA8, 64X64)
+[2021.07.15-01.36.07:524][329]LogTexture: Display: Building textures: Texture2D_4 (BGRA8, 64X64)
+[2021.07.15-01.36.07:525][329]LogTexture: Display: Building textures: Texture2D_2 (BGRA8, 64X64)
+[2021.07.15-01.36.07:525][329]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 64X64)
+[2021.07.15-01.36.07:526][329]LogTexture: Display: Building textures: Texture2D_5 (BGRA8, 64X64)
+[2021.07.15-01.36.09:671][329]LogSavePackage: Moving 'C:/GitHub/AlAirev1_2/Al-Aire/AlAire/Saved/greyBox3F373C2847D272D2B86149BB4ADCCC81.tmp' to 'C:/GitHub/AlAirev1_2/Al-Aire/AlAire/Content/Map/greyBox.umap'
+[2021.07.15-01.36.09:682][329]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/greyBox_BuiltData" FILE="C:/GitHub/AlAirev1_2/Al-Aire/AlAire/Content/Map/greyBox_BuiltData.uasset" SILENT=true
+[2021.07.15-01.36.09:740][329]LogSavePackage: Moving 'C:/GitHub/AlAirev1_2/Al-Aire/AlAire/Saved/greyBox_BuiltDataD08825994A2284F7CBF735A878ACE3AD.tmp' to 'C:/GitHub/AlAirev1_2/Al-Aire/AlAire/Content/Map/greyBox_BuiltData.uasset'
+[2021.07.15-01.36.09:783][329]AssetCheck: New page: Asset Save: multiple assets
+[2021.07.15-01.36.09:783][329]LogContentValidation: Display: Validating World /Game/Map/greyBox.greyBox
+[2021.07.15-01.36.09:783][329]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Map/greyBox_BuiltData.greyBox_BuiltData
+[2021.07.15-01.36.22:452][642]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 64X64)
+[2021.07.15-01.36.22:466][642]LogMaterial: Display: Missing cached shader map for material M_LowpolyLandscape, compiling. 
+[2021.07.15-01.36.22:514][643]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 96
+[2021.07.15-01.36.22:514][643]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 86
+[2021.07.15-01.36.22:514][643]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 76
+[2021.07.15-01.36.22:514][643]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 66
+[2021.07.15-01.36.26:321][994]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 56
+[2021.07.15-01.36.26:395][  1]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 46
+[2021.07.15-01.36.26:583][ 20]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 36
+[2021.07.15-01.36.26:583][ 20]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 26
+[2021.07.15-01.36.29:455][302]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 16
+[2021.07.15-01.36.30:290][384]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 11
+[2021.07.15-01.36.30:756][430]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2021.07.15-01.36.30:934][448]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2021.07.15-01.36.31:243][478]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2021.07.15-01.36.31:495][503]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.07.15-01.36.31:517][504]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2021.07.15-01.36.50:341][708]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 64X64)
+[2021.07.15-01.36.54:910][254]LogTexture: Display: Building textures: Texture2D_11 (BGRA8, 64X64)
+[2021.07.15-01.37.08:603][813]Cmd: TRANSACTION UNDO
+[2021.07.15-01.37.08:603][813]LogEditorTransaction: Undo Landscape Editing: Paint
+[2021.07.15-01.37.08:605][813]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 64X64)
+[2021.07.15-01.37.09:108][823]Cmd: TRANSACTION UNDO
+[2021.07.15-01.37.09:108][823]LogEditorTransaction: Undo Landscape Editing: Paint
+[2021.07.15-01.37.09:110][823]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 64X64)
+[2021.07.15-01.37.09:355][840]Cmd: TRANSACTION UNDO
+[2021.07.15-01.37.09:355][840]LogEditorTransaction: Undo Landscape Editing: Paint
+[2021.07.15-01.37.09:366][840]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 64X64)
+[2021.07.15-01.37.10:011][906]Cmd: TRANSACTION UNDO
+[2021.07.15-01.37.10:011][906]LogEditorTransaction: Undo Landscape Editing: Paint
+[2021.07.15-01.37.10:023][906]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 64X64)
+[2021.07.15-01.37.15:144][474]Cmd: TRANSACTION UNDO
+[2021.07.15-01.37.15:144][474]LogEditorTransaction: Undo Landscape Editing: Paint
+[2021.07.15-01.37.15:147][474]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 64X64)
+[2021.07.15-01.37.19:746][947]Cmd: TRANSACTION UNDO
+[2021.07.15-01.37.19:746][947]LogEditorTransaction: Undo Landscape Editing: Paint
+[2021.07.15-01.37.19:749][947]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 64X64)
+[2021.07.15-01.37.20:531][990]Cmd: TRANSACTION UNDO
+[2021.07.15-01.37.20:531][990]LogEditorTransaction: Undo Landscape Editing: Paint
+[2021.07.15-01.37.20:885][ 23]Cmd: TRANSACTION UNDO
+[2021.07.15-01.37.20:885][ 23]LogEditorTransaction: Undo Landscape Editing: Paint
+[2021.07.15-01.37.20:896][ 23]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 64X64)
+[2021.07.15-01.37.29:605][976]Cmd: TRANSACTION UNDO
+[2021.07.15-01.37.29:605][976]LogEditorTransaction: Undo Landscape Editing: Paint
+[2021.07.15-01.37.29:608][976]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 64X64)
+[2021.07.15-01.37.30:474][ 26]Cmd: TRANSACTION UNDO
+[2021.07.15-01.37.30:474][ 26]LogEditorTransaction: Undo Landscape Editing: Paint
+[2021.07.15-01.37.30:486][ 26]LogTexture: Display: Building textures: Texture2D_7 (BGRA8, 64X64)
